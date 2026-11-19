@@ -1,0 +1,1201 @@
+sale_id,order_date,order_id,product_name,category,region,quantity,unit_price,discount_pct,sales_amount,profit,payment_method
+S00001,2025-11-24,O10250,Mouse,Electronics,South,1,650,0.05,617.5,154.38,Credit Card
+S00002,2025-02-22,O10089,Water Bottle,Accessories,Central,2,450,0.15,765.0,229.5,Cash
+S00003,2025-01-17,O10517,Laptop,Electronics,Central,1,52000,0.0,52000.0,6240.0,UPI
+S00004,2025-10-15,O10429,Monitor,Electronics,South,2,14500,0.15,24650.0,4437.0,Cash
+S00005,2025-10-29,O10777,Headphones,Electronics,South,2,3200,0.0,6400.0,1280.0,Cash
+S00006,2025-06-24,O10104,Headphones,Electronics,North,1,3200,0.05,3040.0,608.0,Cash
+S00007,2025-02-19,O10270,Office Chair,Furniture,North,2,8500,0.15,14450.0,2312.0,Cash
+S00008,2025-10-02,O10080,Mouse,Electronics,Central,4,650,0.1,2340.0,585.0,Debit Card
+S00009,2025-11-18,O10591,Backpack,Accessories,South,3,2100,0.05,5985.0,1197.0,UPI
+S00010,2025-01-24,O10081,Water Bottle,Accessories,South,1,450,0.05,427.5,128.25,UPI
+S00011,2025-07-14,O10166,Headphones,Electronics,East,1,3200,0.05,3040.0,608.0,Debit Card
+S00012,2025-04-18,O10623,Water Bottle,Accessories,South,1,450,0.0,450.0,135.0,Net Banking
+S00013,2025-05-06,O10655,Keyboard,Electronics,Central,1,1800,0.05,1710.0,376.2,Credit Card
+S00014,2025-12-17,O10234,Office Chair,Furniture,North,2,8500,0.0,17000.0,2720.0,Debit Card
+S00015,2025-07-25,O10735,Headphones,Electronics,East,1,3200,0.15,2720.0,544.0,Credit Card
+S00016,2025-12-02,O10146,Notebook,Stationery,East,1,120,0.1,108.0,37.8,Credit Card
+S00017,2025-05-07,O10764,Phone Stand,Accessories,Central,1,350,0.05,332.5,99.75,Cash
+S00018,2025-10-26,O10521,Desk,Furniture,West,1,12000,0.0,12000.0,1680.0,UPI
+S00019,2025-01-25,O10696,Mouse,Electronics,West,1,650,0.0,650.0,162.5,Net Banking
+S00020,2025-02-02,O10541,Desk,Furniture,East,1,12000,0.1,10800.0,1512.0,Net Banking
+S00021,2025-01-06,O10768,Water Bottle,Accessories,East,2,450,0.15,765.0,229.5,Debit Card
+S00022,2025-02-27,O10003,Headphones,Electronics,East,1,3200,0.1,2880.0,576.0,Net Banking
+S00023,2025-04-02,O10654,Pen Pack,Stationery,Central,3,90,0.05,256.5,102.6,Net Banking
+S00024,2025-04-12,O10552,Keyboard,Electronics,Central,1,1800,0.0,1800.0,396.0,UPI
+S00025,2025-11-03,O10371,Office Chair,Furniture,East,1,8500,0.0,8500.0,1360.0,Credit Card
+S00026,2025-01-30,O10087,Monitor,Electronics,West,3,14500,0.0,43500.0,7830.0,UPI
+S00027,2025-09-30,O10562,Keyboard,Electronics,South,1,1800,0.1,1620.0,356.4,Debit Card
+S00028,2025-09-28,O10552,Backpack,Accessories,South,1,2100,0.0,2100.0,420.0,Debit Card
+S00029,2025-07-24,O10529,Water Bottle,Accessories,West,1,450,0.1,405.0,121.5,UPI
+S00030,2025-05-07,O10602,Monitor,Electronics,Central,1,14500,0.0,14500.0,2610.0,Credit Card
+S00031,2025-10-29,O10234,Monitor,Electronics,North,1,14500,0.0,14500.0,2610.0,UPI
+S00032,2025-06-19,O10685,Mouse,Electronics,West,1,650,0.05,617.5,154.38,Credit Card
+S00033,2025-10-04,O10590,Keyboard,Electronics,West,2,1800,0.15,3060.0,673.2,Credit Card
+S00034,2025-08-31,O10674,Desk,Furniture,West,1,12000,0.0,12000.0,1680.0,Debit Card
+S00035,2025-08-05,O10689,Desk,Furniture,North,1,12000,0.0,12000.0,1680.0,UPI
+S00036,2025-07-26,O10254,Phone Stand,Accessories,South,1,350,0.0,350.0,105.0,Credit Card
+S00037,2025-10-02,O10285,Notebook,Stationery,West,1,120,0.0,120.0,42.0,Credit Card
+S00038,2025-02-08,O10100,Notebook,Stationery,North,2,120,0.15,204.0,71.4,Net Banking
+S00039,2025-01-08,O10170,Mouse,Electronics,West,3,650,0.0,1950.0,487.5,Cash
+S00040,2025-09-04,O10168,Monitor,Electronics,West,2,14500,0.0,29000.0,5220.0,UPI
+S00041,2025-07-19,O10292,Headphones,Electronics,West,3,3200,0.1,8640.0,1728.0,Net Banking
+S00042,2025-12-05,O10303,Phone Stand,Accessories,South,1,350,0.0,350.0,105.0,UPI
+S00043,2025-10-24,O10058,Phone Stand,Accessories,North,1,350,0.05,332.5,99.75,Net Banking
+S00044,2025-09-02,O10161,Pen Pack,Stationery,North,3,90,0.15,229.5,91.8,Net Banking
+S00045,2025-02-11,O10691,Keyboard,Electronics,South,1,1800,0.0,1800.0,396.0,Cash
+S00046,2025-03-03,O10040,Backpack,Accessories,Central,1,2100,0.15,1785.0,357.0,UPI
+S00047,2025-08-03,O10323,Water Bottle,Accessories,East,1,450,0.15,382.5,114.75,Credit Card
+S00048,2025-12-09,O10405,Phone Stand,Accessories,South,1,350,0.05,332.5,99.75,Debit Card
+S00049,2025-08-23,O10009,Office Chair,Furniture,West,3,8500,0.0,25500.0,4080.0,Net Banking
+S00050,2025-10-16,O10518,Mouse,Electronics,East,1,650,0.0,650.0,162.5,Credit Card
+S00051,2025-06-28,O10291,Mouse,Electronics,South,3,650,0.05,1852.5,463.12,Cash
+S00052,2025-10-06,O10008,Phone Stand,Accessories,Central,1,350,0.15,297.5,89.25,Debit Card
+S00053,2025-12-06,O10270,Mouse,Electronics,North,3,650,0.0,1950.0,487.5,UPI
+S00054,2025-10-11,O10215,Keyboard,Electronics,East,1,1800,0.15,1530.0,336.6,Credit Card
+S00055,2025-12-18,O10500,Water Bottle,Accessories,East,2,450,0.15,765.0,229.5,UPI
+S00056,2025-02-17,O10045,Water Bottle,Accessories,North,1,450,0.05,427.5,128.25,Debit Card
+S00057,2025-03-08,O10759,Water Bottle,Accessories,West,4,450,0.0,1800.0,540.0,Net Banking
+S00058,2025-12-28,O10077,Desk,Furniture,South,1,12000,0.0,12000.0,1680.0,Net Banking
+S00059,2025-01-19,O10440,Office Chair,Furniture,South,1,8500,0.0,8500.0,1360.0,UPI
+S00060,2025-06-07,O10366,Office Chair,Furniture,South,3,8500,0.0,25500.0,4080.0,Credit Card
+S00061,2025-12-08,O10416,Mouse,Electronics,Central,1,650,0.15,552.5,138.12,Credit Card
+S00062,2025-05-02,O10422,Keyboard,Electronics,North,4,1800,0.0,7200.0,1584.0,Credit Card
+S00063,2025-06-20,O10273,Desk,Furniture,South,2,12000,0.0,24000.0,3360.0,UPI
+S00064,2025-07-15,O10204,Laptop,Electronics,West,2,52000,0.0,104000.0,12480.0,Debit Card
+S00065,2025-06-06,O10408,Monitor,Electronics,East,1,14500,0.0,14500.0,2610.0,Debit Card
+S00066,2025-02-05,O10409,Headphones,Electronics,Central,1,3200,0.15,2720.0,544.0,Debit Card
+S00067,2025-01-15,O10182,Mouse,Electronics,Central,3,650,0.05,1852.5,463.12,Debit Card
+S00068,2025-01-20,O10746,Mouse,Electronics,East,1,650,0.05,617.5,154.38,Cash
+S00069,2025-11-07,O10194,Pen Pack,Stationery,East,1,90,0.15,76.5,30.6,UPI
+S00070,2025-12-29,O10703,Desk,Furniture,South,1,12000,0.15,10200.0,1428.0,Debit Card
+S00071,2025-08-09,O10638,Mouse,Electronics,East,3,650,0.05,1852.5,463.12,UPI
+S00072,2025-06-03,O10334,Pen Pack,Stationery,West,1,90,0.1,81.0,32.4,Debit Card
+S00073,2025-10-11,O10693,Keyboard,Electronics,South,1,1800,0.1,1620.0,356.4,Net Banking
+S00074,2025-10-19,O10311,Headphones,Electronics,East,1,3200,0.0,3200.0,640.0,Credit Card
+S00075,2025-08-09,O10476,Backpack,Accessories,West,1,2100,0.05,1995.0,399.0,Cash
+S00076,2025-12-12,O10674,Monitor,Electronics,North,1,14500,0.0,14500.0,2610.0,Debit Card
+S00077,2025-09-21,O10095,Water Bottle,Accessories,South,1,450,0.05,427.5,128.25,Debit Card
+S00078,2025-04-26,O10250,Monitor,Electronics,West,1,14500,0.0,14500.0,2610.0,Net Banking
+S00079,2025-02-07,O10199,Notebook,Stationery,West,1,120,0.15,102.0,35.7,Cash
+S00080,2025-07-24,O10768,Monitor,Electronics,North,1,14500,0.0,14500.0,2610.0,Cash
+S00081,2025-04-23,O10475,Keyboard,Electronics,North,2,1800,0.15,3060.0,673.2,Net Banking
+S00082,2025-05-08,O10683,Mouse,Electronics,Central,1,650,0.1,585.0,146.25,Net Banking
+S00083,2025-11-01,O10627,Office Chair,Furniture,Central,3,8500,0.1,22950.0,3672.0,Cash
+S00084,2025-10-08,O10460,Notebook,Stationery,East,3,120,0.1,324.0,113.4,Credit Card
+S00085,2025-11-23,O10496,Headphones,Electronics,South,2,3200,0.15,5440.0,1088.0,Debit Card
+S00086,2025-08-14,O10278,Mouse,Electronics,East,2,650,0.0,1300.0,325.0,Debit Card
+S00087,2025-10-04,O10392,Mouse,Electronics,South,1,650,0.0,650.0,162.5,Credit Card
+S00088,2025-02-02,O10477,Desk,Furniture,West,1,12000,0.15,10200.0,1428.0,UPI
+S00089,2025-04-16,O10712,Desk,Furniture,North,1,12000,0.15,10200.0,1428.0,Net Banking
+S00090,2025-07-14,O10305,Notebook,Stationery,West,1,120,0.05,114.0,39.9,Cash
+S00091,2025-10-03,O10225,Phone Stand,Accessories,West,2,350,0.15,595.0,178.5,Credit Card
+S00092,2025-05-20,O10344,Desk,Furniture,West,1,12000,0.1,10800.0,1512.0,Credit Card
+S00093,2025-08-28,O10027,Keyboard,Electronics,West,4,1800,0.15,6120.0,1346.4,Net Banking
+S00094,2025-10-16,O10138,Water Bottle,Accessories,West,1,450,0.1,405.0,121.5,Credit Card
+S00095,2025-01-26,O10465,Headphones,Electronics,East,1,3200,0.0,3200.0,640.0,Debit Card
+S00096,2025-07-14,O10258,Headphones,Electronics,North,2,3200,0.1,5760.0,1152.0,Cash
+S00097,2025-01-10,O10229,Phone Stand,Accessories,North,1,350,0.05,332.5,99.75,UPI
+S00098,2025-01-16,O10636,Monitor,Electronics,South,1,14500,0.0,14500.0,2610.0,Credit Card
+S00099,2025-03-06,O10223,Notebook,Stationery,West,2,120,0.15,204.0,71.4,Debit Card
+S00100,2025-07-08,O10796,Keyboard,Electronics,South,1,1800,0.0,1800.0,396.0,Debit Card
+S00101,2025-02-25,O10589,Backpack,Accessories,West,1,2100,0.05,1995.0,399.0,Cash
+S00102,2025-04-12,O10104,Mouse,Electronics,East,1,650,0.0,650.0,162.5,Net Banking
+S00103,2025-03-03,O10545,Backpack,Accessories,West,2,2100,0.05,3990.0,798.0,Debit Card
+S00104,2025-02-05,O10430,Pen Pack,Stationery,West,1,90,0.0,90.0,36.0,UPI
+S00105,2025-08-10,O10724,Office Chair,Furniture,South,1,8500,0.1,7650.0,1224.0,Cash
+S00106,2025-04-01,O10630,Phone Stand,Accessories,Central,1,350,0.05,332.5,99.75,Cash
+S00107,2025-08-27,O10274,Desk,Furniture,East,2,12000,0.15,20400.0,2856.0,Credit Card
+S00108,2025-02-14,O10768,Headphones,Electronics,West,3,3200,0.0,9600.0,1920.0,Net Banking
+S00109,2025-11-09,O10506,Water Bottle,Accessories,East,1,450,0.0,450.0,135.0,Credit Card
+S00110,2025-09-07,O10348,Monitor,Electronics,East,1,14500,0.05,13775.0,2479.5,Net Banking
+S00111,2025-12-26,O10195,Headphones,Electronics,North,1,3200,0.15,2720.0,544.0,Credit Card
+S00112,2025-07-28,O10707,Notebook,Stationery,West,1,120,0.0,120.0,42.0,Cash
+S00113,2025-08-18,O10414,Laptop,Electronics,South,1,52000,0.0,52000.0,6240.0,Debit Card
+S00114,2025-12-06,O10543,Backpack,Accessories,East,1,2100,0.15,1785.0,357.0,Cash
+S00115,2025-10-09,O10277,Office Chair,Furniture,East,1,8500,0.1,7650.0,1224.0,Debit Card
+S00116,2025-04-29,O10122,Mouse,Electronics,Central,2,650,0.05,1235.0,308.75,Credit Card
+S00117,2025-04-09,O10741,Monitor,Electronics,Central,2,14500,0.05,27550.0,4959.0,Net Banking
+S00118,2025-11-02,O10303,Headphones,Electronics,South,4,3200,0.0,12800.0,2560.0,Debit Card
+S00119,2025-04-02,O10129,Headphones,Electronics,East,1,3200,0.15,2720.0,544.0,UPI
+S00120,2025-01-28,O10653,Pen Pack,Stationery,West,1,90,0.0,90.0,36.0,UPI
+S00121,2025-01-07,O10451,Backpack,Accessories,East,1,2100,0.1,1890.0,378.0,Credit Card
+S00122,2025-01-27,O10116,Headphones,Electronics,North,3,3200,0.1,8640.0,1728.0,Cash
+S00123,2025-09-09,O10155,Mouse,Electronics,South,1,650,0.0,650.0,162.5,Net Banking
+S00124,2025-06-05,O10571,Mouse,Electronics,West,4,650,0.0,2600.0,650.0,Net Banking
+S00125,2025-11-02,O10389,Backpack,Accessories,West,1,2100,0.15,1785.0,357.0,Cash
+S00126,2025-06-02,O10582,Backpack,Accessories,Central,4,2100,0.05,7980.0,1596.0,UPI
+S00127,2025-11-09,O10640,Phone Stand,Accessories,South,1,350,0.0,350.0,105.0,Debit Card
+S00128,2025-12-05,O10565,Mouse,Electronics,North,1,650,0.0,650.0,162.5,Credit Card
+S00129,2025-01-02,O10481,Desk,Furniture,East,1,12000,0.15,10200.0,1428.0,UPI
+S00130,2025-04-29,O10072,Headphones,Electronics,South,2,3200,0.1,5760.0,1152.0,Debit Card
+S00131,2025-11-17,O10435,Backpack,Accessories,North,2,2100,0.0,4200.0,840.0,Net Banking
+S00132,2025-04-26,O10145,Water Bottle,Accessories,North,1,450,0.05,427.5,128.25,UPI
+S00133,2025-03-26,O10295,Headphones,Electronics,West,1,3200,0.15,2720.0,544.0,UPI
+S00134,2025-08-28,O10278,Phone Stand,Accessories,Central,1,350,0.1,315.0,94.5,Net Banking
+S00135,2025-09-10,O10442,Notebook,Stationery,East,1,120,0.0,120.0,42.0,Net Banking
+S00136,2025-05-09,O10601,Laptop,Electronics,North,1,52000,0.15,44200.0,5304.0,Debit Card
+S00137,2025-10-23,O10481,Laptop,Electronics,Central,2,52000,0.0,104000.0,12480.0,Cash
+S00138,2025-05-23,O10650,Keyboard,Electronics,West,4,1800,0.1,6480.0,1425.6,UPI
+S00139,2025-08-29,O10686,Office Chair,Furniture,North,1,8500,0.05,8075.0,1292.0,Credit Card
+S00140,2025-06-18,O10678,Desk,Furniture,West,2,12000,0.05,22800.0,3192.0,Net Banking
+S00141,2025-01-19,O10331,Notebook,Stationery,North,1,120,0.05,114.0,39.9,Cash
+S00142,2025-09-21,O10473,Laptop,Electronics,West,2,52000,0.15,88400.0,10608.0,UPI
+S00143,2025-04-07,O10640,Pen Pack,Stationery,West,1,90,0.1,81.0,32.4,UPI
+S00144,2025-04-15,O10448,Headphones,Electronics,West,1,3200,0.05,3040.0,608.0,UPI
+S00145,2025-01-15,O10726,Water Bottle,Accessories,South,1,450,0.0,450.0,135.0,Debit Card
+S00146,2025-10-10,O10230,Laptop,Electronics,North,1,52000,0.0,52000.0,6240.0,Cash
+S00147,2025-03-02,O10733,Water Bottle,Accessories,East,2,450,0.1,810.0,243.0,Net Banking
+S00148,2025-12-28,O10483,Headphones,Electronics,South,1,3200,0.1,2880.0,576.0,Cash
+S00149,2025-10-10,O10520,Keyboard,Electronics,South,1,1800,0.15,1530.0,336.6,UPI
+S00150,2025-05-22,O10273,Desk,Furniture,North,1,12000,0.15,10200.0,1428.0,Debit Card
+S00151,2025-06-02,O10152,Backpack,Accessories,West,1,2100,0.1,1890.0,378.0,Net Banking
+S00152,2025-09-05,O10386,Office Chair,Furniture,West,1,8500,0.15,7225.0,1156.0,Debit Card
+S00153,2025-04-07,O10239,Phone Stand,Accessories,West,1,350,0.1,315.0,94.5,UPI
+S00154,2025-06-12,O10395,Phone Stand,Accessories,South,1,350,0.1,315.0,94.5,Cash
+S00155,2025-01-19,O10339,Keyboard,Electronics,North,1,1800,0.15,1530.0,336.6,Cash
+S00156,2025-02-21,O10739,Pen Pack,Stationery,South,3,90,0.0,270.0,108.0,Cash
+S00157,2025-12-02,O10346,Keyboard,Electronics,Central,1,1800,0.05,1710.0,376.2,Cash
+S00158,2025-11-29,O10389,Mouse,Electronics,East,2,650,0.15,1105.0,276.25,Cash
+S00159,2025-10-05,O10646,Laptop,Electronics,East,1,52000,0.0,52000.0,6240.0,Credit Card
+S00160,2025-02-16,O10454,Desk,Furniture,South,4,12000,0.0,48000.0,6720.0,Debit Card
+S00161,2025-01-15,O10300,Laptop,Electronics,East,1,52000,0.0,52000.0,6240.0,Debit Card
+S00162,2025-08-09,O10579,Keyboard,Electronics,South,1,1800,0.1,1620.0,356.4,Credit Card
+S00163,2025-03-31,O10634,Mouse,Electronics,South,1,650,0.1,585.0,146.25,Cash
+S00164,2025-10-26,O10470,Keyboard,Electronics,East,1,1800,0.05,1710.0,376.2,UPI
+S00165,2025-08-27,O10075,Headphones,Electronics,West,2,3200,0.0,6400.0,1280.0,Debit Card
+S00166,2025-10-28,O10706,Headphones,Electronics,East,1,3200,0.1,2880.0,576.0,Cash
+S00167,2025-06-04,O10109,Monitor,Electronics,South,4,14500,0.1,52200.0,9396.0,Cash
+S00168,2025-10-20,O10022,Office Chair,Furniture,West,1,8500,0.05,8075.0,1292.0,Debit Card
+S00169,2025-01-05,O10620,Backpack,Accessories,West,2,2100,0.0,4200.0,840.0,Debit Card
+S00170,2025-04-28,O10651,Backpack,Accessories,South,2,2100,0.0,4200.0,840.0,Net Banking
+S00171,2025-05-09,O10643,Water Bottle,Accessories,North,2,450,0.0,900.0,270.0,UPI
+S00172,2025-06-08,O10749,Notebook,Stationery,South,1,120,0.05,114.0,39.9,UPI
+S00173,2025-06-01,O10205,Office Chair,Furniture,South,2,8500,0.0,17000.0,2720.0,Net Banking
+S00174,2025-07-07,O10168,Pen Pack,Stationery,East,1,90,0.05,85.5,34.2,Cash
+S00175,2025-06-01,O10479,Phone Stand,Accessories,North,3,350,0.0,1050.0,315.0,Credit Card
+S00176,2025-04-26,O10570,Water Bottle,Accessories,East,2,450,0.1,810.0,243.0,UPI
+S00177,2025-07-22,O10465,Laptop,Electronics,East,1,52000,0.0,52000.0,6240.0,Debit Card
+S00178,2025-10-27,O10110,Desk,Furniture,South,2,12000,0.05,22800.0,3192.0,Cash
+S00179,2025-01-13,O10335,Backpack,Accessories,Central,3,2100,0.15,5355.0,1071.0,Credit Card
+S00180,2025-11-28,O10717,Mouse,Electronics,East,1,650,0.1,585.0,146.25,Cash
+S00181,2025-03-01,O10311,Keyboard,Electronics,West,1,1800,0.0,1800.0,396.0,UPI
+S00182,2025-02-19,O10397,Monitor,Electronics,West,3,14500,0.0,43500.0,7830.0,Debit Card
+S00183,2025-12-10,O10429,Phone Stand,Accessories,Central,2,350,0.15,595.0,178.5,Credit Card
+S00184,2025-08-01,O10630,Water Bottle,Accessories,West,1,450,0.1,405.0,121.5,Debit Card
+S00185,2025-01-17,O10455,Phone Stand,Accessories,South,1,350,0.1,315.0,94.5,Debit Card
+S00186,2025-02-20,O10062,Water Bottle,Accessories,West,1,450,0.05,427.5,128.25,Debit Card
+S00187,2025-04-08,O10093,Mouse,Electronics,South,3,650,0.1,1755.0,438.75,Net Banking
+S00188,2025-01-11,O10128,Laptop,Electronics,Central,2,52000,0.0,104000.0,12480.0,Credit Card
+S00189,2025-02-05,O10238,Pen Pack,Stationery,East,1,90,0.0,90.0,36.0,Credit Card
+S00190,2025-11-02,O10133,Laptop,Electronics,Central,1,52000,0.0,52000.0,6240.0,Debit Card
+S00191,2025-03-31,O10134,Mouse,Electronics,North,2,650,0.0,1300.0,325.0,Debit Card
+S00192,2025-05-02,O10271,Backpack,Accessories,North,1,2100,0.0,2100.0,420.0,Credit Card
+S00193,2025-08-04,O10487,Pen Pack,Stationery,West,1,90,0.0,90.0,36.0,Debit Card
+S00194,2025-09-20,O10226,Backpack,Accessories,Central,1,2100,0.15,1785.0,357.0,UPI
+S00195,2025-12-04,O10062,Pen Pack,Stationery,West,1,90,0.0,90.0,36.0,Cash
+S00196,2025-08-07,O10075,Water Bottle,Accessories,North,1,450,0.1,405.0,121.5,Debit Card
+S00197,2025-11-08,O10639,Keyboard,Electronics,Central,1,1800,0.05,1710.0,376.2,Net Banking
+S00198,2025-12-31,O10543,Office Chair,Furniture,East,1,8500,0.15,7225.0,1156.0,Cash
+S00199,2025-09-16,O10670,Backpack,Accessories,Central,1,2100,0.0,2100.0,420.0,Credit Card
+S00200,2025-08-09,O10347,Notebook,Stationery,West,3,120,0.1,324.0,113.4,Cash
+S00201,2025-08-01,O10320,Phone Stand,Accessories,East,1,350,0.1,315.0,94.5,Debit Card
+S00202,2025-03-20,O10093,Water Bottle,Accessories,North,3,450,0.0,1350.0,405.0,UPI
+S00203,2025-08-10,O10133,Mouse,Electronics,Central,2,650,0.05,1235.0,308.75,UPI
+S00204,2025-10-28,O10420,Pen Pack,Stationery,East,1,90,0.0,90.0,36.0,Cash
+S00205,2025-01-27,O10106,Headphones,Electronics,Central,1,3200,0.05,3040.0,608.0,Net Banking
+S00206,2025-04-19,O10110,Keyboard,Electronics,East,2,1800,0.0,3600.0,792.0,Net Banking
+S00207,2025-07-08,O10231,Mouse,Electronics,West,2,650,0.15,1105.0,276.25,Net Banking
+S00208,2025-11-15,O10026,Backpack,Accessories,Central,2,2100,0.15,3570.0,714.0,Debit Card
+S00209,2025-01-15,O10347,Keyboard,Electronics,East,1,1800,0.05,1710.0,376.2,UPI
+S00210,2025-04-03,O10071,Keyboard,Electronics,South,1,1800,0.1,1620.0,356.4,UPI
+S00211,2025-02-16,O10429,Phone Stand,Accessories,West,1,350,0.1,315.0,94.5,Debit Card
+S00212,2025-03-22,O10795,Office Chair,Furniture,Central,1,8500,0.05,8075.0,1292.0,Net Banking
+S00213,2025-02-13,O10050,Laptop,Electronics,North,1,52000,0.15,44200.0,5304.0,Debit Card
+S00214,2025-08-15,O10452,Water Bottle,Accessories,West,1,450,0.15,382.5,114.75,Debit Card
+S00215,2025-04-21,O10113,Pen Pack,Stationery,East,1,90,0.1,81.0,32.4,Net Banking
+S00216,2025-09-07,O10225,Pen Pack,Stationery,West,2,90,0.0,180.0,72.0,Net Banking
+S00217,2025-01-29,O10785,Laptop,Electronics,South,1,52000,0.0,52000.0,6240.0,Debit Card
+S00218,2025-05-29,O10764,Office Chair,Furniture,West,1,8500,0.1,7650.0,1224.0,Credit Card
+S00219,2025-03-08,O10512,Desk,Furniture,Central,1,12000,0.0,12000.0,1680.0,Debit Card
+S00220,2025-02-06,O10446,Desk,Furniture,North,2,12000,0.0,24000.0,3360.0,Cash
+S00221,2025-02-09,O10414,Office Chair,Furniture,West,1,8500,0.15,7225.0,1156.0,Debit Card
+S00222,2025-02-28,O10175,Desk,Furniture,Central,1,12000,0.05,11400.0,1596.0,Cash
+S00223,2025-12-20,O10249,Office Chair,Furniture,West,1,8500,0.0,8500.0,1360.0,Net Banking
+S00224,2025-07-25,O10763,Pen Pack,Stationery,East,1,90,0.05,85.5,34.2,Credit Card
+S00225,2025-06-20,O10543,Keyboard,Electronics,Central,1,1800,0.0,1800.0,396.0,Credit Card
+S00226,2025-06-28,O10241,Office Chair,Furniture,North,2,8500,0.0,17000.0,2720.0,Credit Card
+S00227,2025-05-12,O10778,Monitor,Electronics,North,1,14500,0.0,14500.0,2610.0,Credit Card
+S00228,2025-11-18,O10778,Notebook,Stationery,Central,1,120,0.15,102.0,35.7,Cash
+S00229,2025-12-15,O10330,Backpack,Accessories,East,1,2100,0.15,1785.0,357.0,Credit Card
+S00230,2025-08-14,O10281,Mouse,Electronics,Central,1,650,0.05,617.5,154.38,UPI
+S00231,2025-06-30,O10462,Pen Pack,Stationery,North,1,90,0.1,81.0,32.4,UPI
+S00232,2025-07-08,O10629,Headphones,Electronics,Central,1,3200,0.0,3200.0,640.0,Net Banking
+S00233,2025-07-16,O10460,Notebook,Stationery,Central,1,120,0.0,120.0,42.0,Credit Card
+S00234,2025-06-14,O10063,Backpack,Accessories,West,1,2100,0.0,2100.0,420.0,UPI
+S00235,2025-06-25,O10040,Phone Stand,Accessories,South,1,350,0.0,350.0,105.0,Cash
+S00236,2025-08-13,O10372,Pen Pack,Stationery,East,1,90,0.0,90.0,36.0,Debit Card
+S00237,2025-07-18,O10053,Desk,Furniture,East,2,12000,0.15,20400.0,2856.0,UPI
+S00238,2025-06-18,O10290,Mouse,Electronics,East,1,650,0.1,585.0,146.25,Net Banking
+S00239,2025-03-18,O10358,Office Chair,Furniture,East,1,8500,0.0,8500.0,1360.0,Cash
+S00240,2025-03-08,O10317,Backpack,Accessories,Central,2,2100,0.0,4200.0,840.0,Cash
+S00241,2025-11-26,O10095,Office Chair,Furniture,West,2,8500,0.15,14450.0,2312.0,Net Banking
+S00242,2025-07-05,O10219,Laptop,Electronics,East,1,52000,0.0,52000.0,6240.0,Cash
+S00243,2025-04-09,O10079,Monitor,Electronics,East,4,14500,0.0,58000.0,10440.0,UPI
+S00244,2025-09-17,O10038,Pen Pack,Stationery,East,2,90,0.15,153.0,61.2,Net Banking
+S00245,2025-03-09,O10185,Backpack,Accessories,Central,1,2100,0.0,2100.0,420.0,Credit Card
+S00246,2025-08-13,O10454,Laptop,Electronics,Central,1,52000,0.0,52000.0,6240.0,Debit Card
+S00247,2025-08-18,O10480,Monitor,Electronics,South,1,14500,0.05,13775.0,2479.5,Debit Card
+S00248,2025-12-14,O10787,Backpack,Accessories,East,4,2100,0.1,7560.0,1512.0,Cash
+S00249,2025-09-15,O10204,Pen Pack,Stationery,Central,1,90,0.0,90.0,36.0,Credit Card
+S00250,2025-05-09,O10567,Laptop,Electronics,North,1,52000,0.05,49400.0,5928.0,Net Banking
+S00251,2025-03-05,O10279,Headphones,Electronics,West,1,3200,0.0,3200.0,640.0,Net Banking
+S00252,2025-03-17,O10461,Desk,Furniture,East,1,12000,0.0,12000.0,1680.0,UPI
+S00253,2025-08-01,O10241,Laptop,Electronics,West,1,52000,0.05,49400.0,5928.0,UPI
+S00254,2025-07-11,O10731,Monitor,Electronics,East,1,14500,0.0,14500.0,2610.0,Credit Card
+S00255,2025-03-12,O10712,Laptop,Electronics,South,1,52000,0.1,46800.0,5616.0,Cash
+S00256,2025-08-18,O10019,Backpack,Accessories,East,1,2100,0.0,2100.0,420.0,Credit Card
+S00257,2025-03-18,O10540,Pen Pack,Stationery,West,3,90,0.15,229.5,91.8,UPI
+S00258,2025-05-28,O10244,Monitor,Electronics,West,1,14500,0.0,14500.0,2610.0,Net Banking
+S00259,2025-08-23,O10611,Mouse,Electronics,Central,1,650,0.1,585.0,146.25,UPI
+S00260,2025-11-20,O10298,Pen Pack,Stationery,West,1,90,0.0,90.0,36.0,UPI
+S00261,2025-11-11,O10191,Office Chair,Furniture,North,1,8500,0.1,7650.0,1224.0,Net Banking
+S00262,2025-07-04,O10519,Mouse,Electronics,Central,3,650,0.15,1657.5,414.38,Net Banking
+S00263,2025-01-11,O10650,Desk,Furniture,West,3,12000,0.0,36000.0,5040.0,Debit Card
+S00264,2025-05-10,O10353,Phone Stand,Accessories,South,1,350,0.0,350.0,105.0,UPI
+S00265,2025-10-25,O10045,Phone Stand,Accessories,East,2,350,0.0,700.0,210.0,Net Banking
+S00266,2025-06-23,O10712,Water Bottle,Accessories,West,1,450,0.1,405.0,121.5,Credit Card
+S00267,2025-03-11,O10037,Mouse,Electronics,East,2,650,0.1,1170.0,292.5,Credit Card
+S00268,2025-01-23,O10317,Monitor,Electronics,Central,3,14500,0.05,41325.0,7438.5,Cash
+S00269,2025-10-06,O10292,Notebook,Stationery,East,1,120,0.0,120.0,42.0,UPI
+S00270,2025-12-02,O10447,Office Chair,Furniture,West,1,8500,0.05,8075.0,1292.0,Cash
+S00271,2025-07-17,O10708,Office Chair,Furniture,West,4,8500,0.1,30600.0,4896.0,Debit Card
+S00272,2025-09-23,O10080,Headphones,Electronics,West,2,3200,0.1,5760.0,1152.0,Net Banking
+S00273,2025-04-03,O10081,Pen Pack,Stationery,East,1,90,0.0,90.0,36.0,Debit Card
+S00274,2025-06-06,O10170,Notebook,Stationery,West,1,120,0.1,108.0,37.8,Debit Card
+S00275,2025-08-17,O10629,Laptop,Electronics,West,2,52000,0.05,98800.0,11856.0,Debit Card
+S00276,2025-11-24,O10372,Laptop,Electronics,Central,1,52000,0.1,46800.0,5616.0,Credit Card
+S00277,2025-01-16,O10035,Keyboard,Electronics,South,2,1800,0.1,3240.0,712.8,UPI
+S00278,2025-05-01,O10580,Water Bottle,Accessories,North,1,450,0.1,405.0,121.5,Net Banking
+S00279,2025-03-20,O10380,Water Bottle,Accessories,West,1,450,0.05,427.5,128.25,UPI
+S00280,2025-10-21,O10321,Keyboard,Electronics,East,1,1800,0.1,1620.0,356.4,Credit Card
+S00281,2025-02-28,O10530,Laptop,Electronics,West,2,52000,0.1,93600.0,11232.0,Net Banking
+S00282,2025-03-02,O10219,Headphones,Electronics,Central,2,3200,0.1,5760.0,1152.0,Debit Card
+S00283,2025-12-22,O10075,Notebook,Stationery,West,1,120,0.0,120.0,42.0,Credit Card
+S00284,2025-08-16,O10683,Mouse,Electronics,East,2,650,0.05,1235.0,308.75,UPI
+S00285,2025-10-09,O10161,Pen Pack,Stationery,South,1,90,0.05,85.5,34.2,Debit Card
+S00286,2025-09-18,O10142,Monitor,Electronics,South,1,14500,0.0,14500.0,2610.0,Cash
+S00287,2025-01-14,O10478,Office Chair,Furniture,Central,1,8500,0.05,8075.0,1292.0,Credit Card
+S00288,2025-11-10,O10734,Mouse,Electronics,West,1,650,0.1,585.0,146.25,Net Banking
+S00289,2025-07-30,O10128,Desk,Furniture,East,2,12000,0.0,24000.0,3360.0,UPI
+S00290,2025-08-19,O10131,Notebook,Stationery,Central,2,120,0.05,228.0,79.8,Net Banking
+S00291,2025-04-04,O10127,Keyboard,Electronics,Central,1,1800,0.0,1800.0,396.0,Credit Card
+S00292,2025-06-05,O10354,Keyboard,Electronics,Central,1,1800,0.0,1800.0,396.0,Debit Card
+S00293,2025-02-10,O10281,Headphones,Electronics,South,1,3200,0.15,2720.0,544.0,Debit Card
+S00294,2025-11-11,O10606,Pen Pack,Stationery,Central,1,90,0.0,90.0,36.0,Credit Card
+S00295,2025-03-29,O10345,Water Bottle,Accessories,Central,1,450,0.15,382.5,114.75,UPI
+S00296,2025-01-15,O10271,Mouse,Electronics,South,1,650,0.15,552.5,138.12,Net Banking
+S00297,2025-08-02,O10642,Backpack,Accessories,Central,1,2100,0.1,1890.0,378.0,Debit Card
+S00298,2025-11-25,O10304,Headphones,Electronics,West,1,3200,0.1,2880.0,576.0,UPI
+S00299,2025-12-19,O10495,Laptop,Electronics,West,1,52000,0.1,46800.0,5616.0,Credit Card
+S00300,2025-06-24,O10751,Backpack,Accessories,East,1,2100,0.05,1995.0,399.0,Cash
+S00301,2025-03-08,O10326,Office Chair,Furniture,South,1,8500,0.0,8500.0,1360.0,Cash
+S00302,2025-03-04,O10099,Headphones,Electronics,North,1,3200,0.0,3200.0,640.0,Debit Card
+S00303,2025-07-16,O10335,Backpack,Accessories,Central,1,2100,0.0,2100.0,420.0,Debit Card
+S00304,2025-04-08,O10478,Keyboard,Electronics,West,1,1800,0.15,1530.0,336.6,Debit Card
+S00305,2025-09-12,O10517,Laptop,Electronics,West,1,52000,0.1,46800.0,5616.0,Credit Card
+S00306,2025-04-21,O10288,Backpack,Accessories,West,1,2100,0.0,2100.0,420.0,Net Banking
+S00307,2025-12-01,O10008,Water Bottle,Accessories,North,1,450,0.15,382.5,114.75,Cash
+S00308,2025-03-10,O10374,Headphones,Electronics,North,2,3200,0.1,5760.0,1152.0,Cash
+S00309,2025-01-27,O10566,Backpack,Accessories,East,1,2100,0.05,1995.0,399.0,UPI
+S00310,2025-07-17,O10286,Pen Pack,Stationery,Central,1,90,0.15,76.5,30.6,Net Banking
+S00311,2025-03-02,O10382,Keyboard,Electronics,East,4,1800,0.1,6480.0,1425.6,Net Banking
+S00312,2025-07-07,O10411,Keyboard,Electronics,Central,1,1800,0.15,1530.0,336.6,UPI
+S00313,2025-01-24,O10485,Laptop,Electronics,Central,1,52000,0.05,49400.0,5928.0,Cash
+S00314,2025-03-18,O10335,Backpack,Accessories,Central,3,2100,0.0,6300.0,1260.0,Debit Card
+S00315,2025-03-25,O10607,Desk,Furniture,East,4,12000,0.05,45600.0,6384.0,Net Banking
+S00316,2025-09-18,O10306,Pen Pack,Stationery,West,1,90,0.15,76.5,30.6,UPI
+S00317,2025-07-08,O10597,Office Chair,Furniture,East,2,8500,0.1,15300.0,2448.0,UPI
+S00318,2025-11-02,O10591,Notebook,Stationery,South,1,120,0.15,102.0,35.7,UPI
+S00319,2025-10-26,O10793,Notebook,Stationery,West,1,120,0.15,102.0,35.7,Credit Card
+S00320,2025-12-15,O10195,Monitor,Electronics,North,1,14500,0.0,14500.0,2610.0,Cash
+S00321,2025-06-10,O10420,Desk,Furniture,Central,1,12000,0.0,12000.0,1680.0,Net Banking
+S00322,2025-08-30,O10531,Phone Stand,Accessories,South,2,350,0.0,700.0,210.0,Net Banking
+S00323,2025-06-16,O10321,Water Bottle,Accessories,South,1,450,0.1,405.0,121.5,Cash
+S00324,2025-09-30,O10624,Office Chair,Furniture,West,1,8500,0.05,8075.0,1292.0,Credit Card
+S00325,2025-05-07,O10304,Headphones,Electronics,East,1,3200,0.0,3200.0,640.0,Credit Card
+S00326,2025-12-20,O10357,Phone Stand,Accessories,Central,1,350,0.1,315.0,94.5,Debit Card
+S00327,2025-05-28,O10388,Mouse,Electronics,West,1,650,0.15,552.5,138.12,Debit Card
+S00328,2025-03-16,O10354,Headphones,Electronics,West,1,3200,0.0,3200.0,640.0,Debit Card
+S00329,2025-09-03,O10277,Monitor,Electronics,Central,1,14500,0.15,12325.0,2218.5,Debit Card
+S00330,2025-03-12,O10245,Mouse,Electronics,South,1,650,0.15,552.5,138.12,UPI
+S00331,2025-12-09,O10053,Pen Pack,Stationery,North,1,90,0.0,90.0,36.0,Cash
+S00332,2025-06-19,O10005,Phone Stand,Accessories,Central,1,350,0.0,350.0,105.0,Credit Card
+S00333,2025-07-28,O10488,Water Bottle,Accessories,South,3,450,0.1,1215.0,364.5,Debit Card
+S00334,2025-06-14,O10667,Headphones,Electronics,Central,1,3200,0.0,3200.0,640.0,Credit Card
+S00335,2025-10-01,O10179,Phone Stand,Accessories,West,2,350,0.0,700.0,210.0,Credit Card
+S00336,2025-01-19,O10766,Desk,Furniture,East,2,12000,0.0,24000.0,3360.0,UPI
+S00337,2025-01-05,O10343,Headphones,Electronics,East,1,3200,0.0,3200.0,640.0,Cash
+S00338,2025-11-25,O10516,Pen Pack,Stationery,West,1,90,0.0,90.0,36.0,Debit Card
+S00339,2025-04-09,O10663,Mouse,Electronics,East,1,650,0.1,585.0,146.25,Credit Card
+S00340,2025-01-08,O10581,Phone Stand,Accessories,South,1,350,0.05,332.5,99.75,Credit Card
+S00341,2025-11-09,O10527,Water Bottle,Accessories,East,3,450,0.1,1215.0,364.5,UPI
+S00342,2025-07-25,O10488,Water Bottle,Accessories,East,1,450,0.0,450.0,135.0,Credit Card
+S00343,2025-01-04,O10771,Headphones,Electronics,East,1,3200,0.1,2880.0,576.0,Debit Card
+S00344,2025-06-04,O10267,Backpack,Accessories,East,2,2100,0.0,4200.0,840.0,Credit Card
+S00345,2025-02-01,O10163,Water Bottle,Accessories,West,1,450,0.05,427.5,128.25,Net Banking
+S00346,2025-12-27,O10376,Headphones,Electronics,Central,2,3200,0.05,6080.0,1216.0,Credit Card
+S00347,2025-04-23,O10765,Keyboard,Electronics,Central,1,1800,0.1,1620.0,356.4,Debit Card
+S00348,2025-08-01,O10775,Phone Stand,Accessories,Central,1,350,0.1,315.0,94.5,Credit Card
+S00349,2025-05-07,O10538,Water Bottle,Accessories,West,2,450,0.0,900.0,270.0,Net Banking
+S00350,2025-12-27,O10114,Office Chair,Furniture,North,1,8500,0.15,7225.0,1156.0,Net Banking
+S00351,2025-09-16,O10168,Monitor,Electronics,East,1,14500,0.0,14500.0,2610.0,Net Banking
+S00352,2025-08-15,O10500,Mouse,Electronics,North,2,650,0.15,1105.0,276.25,Net Banking
+S00353,2025-08-17,O10425,Laptop,Electronics,West,1,52000,0.15,44200.0,5304.0,Net Banking
+S00354,2025-01-30,O10740,Pen Pack,Stationery,North,1,90,0.05,85.5,34.2,Cash
+S00355,2025-05-11,O10074,Laptop,Electronics,North,2,52000,0.15,88400.0,10608.0,Cash
+S00356,2025-06-26,O10070,Phone Stand,Accessories,West,1,350,0.0,350.0,105.0,UPI
+S00357,2025-05-27,O10784,Desk,Furniture,West,1,12000,0.0,12000.0,1680.0,Debit Card
+S00358,2025-07-15,O10384,Notebook,Stationery,North,2,120,0.1,216.0,75.6,Net Banking
+S00359,2025-03-10,O10182,Water Bottle,Accessories,Central,2,450,0.0,900.0,270.0,Cash
+S00360,2025-09-28,O10003,Keyboard,Electronics,North,2,1800,0.0,3600.0,792.0,Debit Card
+S00361,2025-08-26,O10544,Water Bottle,Accessories,West,2,450,0.1,810.0,243.0,Credit Card
+S00362,2025-05-07,O10193,Notebook,Stationery,North,1,120,0.05,114.0,39.9,UPI
+S00363,2025-12-05,O10246,Desk,Furniture,South,1,12000,0.0,12000.0,1680.0,UPI
+S00364,2025-02-21,O10688,Backpack,Accessories,North,1,2100,0.15,1785.0,357.0,Credit Card
+S00365,2025-01-23,O10222,Desk,Furniture,North,1,12000,0.15,10200.0,1428.0,Credit Card
+S00366,2025-09-15,O10326,Headphones,Electronics,Central,1,3200,0.15,2720.0,544.0,Net Banking
+S00367,2025-12-11,O10676,Office Chair,Furniture,Central,1,8500,0.0,8500.0,1360.0,Credit Card
+S00368,2025-07-31,O10605,Headphones,Electronics,South,1,3200,0.15,2720.0,544.0,Cash
+S00369,2025-10-12,O10658,Notebook,Stationery,West,1,120,0.05,114.0,39.9,Net Banking
+S00370,2025-06-13,O10307,Phone Stand,Accessories,West,1,350,0.0,350.0,105.0,Credit Card
+S00371,2025-10-03,O10307,Notebook,Stationery,South,1,120,0.0,120.0,42.0,Cash
+S00372,2025-01-30,O10570,Pen Pack,Stationery,Central,1,90,0.1,81.0,32.4,Credit Card
+S00373,2025-07-18,O10662,Monitor,Electronics,North,1,14500,0.05,13775.0,2479.5,Cash
+S00374,2025-07-09,O10052,Mouse,Electronics,East,1,650,0.0,650.0,162.5,Cash
+S00375,2025-12-11,O10192,Backpack,Accessories,Central,1,2100,0.0,2100.0,420.0,Net Banking
+S00376,2025-04-22,O10310,Notebook,Stationery,North,1,120,0.05,114.0,39.9,Credit Card
+S00377,2025-04-08,O10248,Phone Stand,Accessories,Central,1,350,0.1,315.0,94.5,Credit Card
+S00378,2025-07-23,O10389,Monitor,Electronics,West,1,14500,0.05,13775.0,2479.5,Net Banking
+S00379,2025-11-29,O10525,Office Chair,Furniture,West,1,8500,0.05,8075.0,1292.0,Cash
+S00380,2025-02-20,O10208,Phone Stand,Accessories,East,1,350,0.05,332.5,99.75,Debit Card
+S00381,2025-07-31,O10759,Laptop,Electronics,South,1,52000,0.0,52000.0,6240.0,UPI
+S00382,2025-05-14,O10737,Pen Pack,Stationery,West,3,90,0.15,229.5,91.8,Debit Card
+S00383,2025-03-20,O10583,Monitor,Electronics,South,1,14500,0.1,13050.0,2349.0,Cash
+S00384,2025-10-09,O10263,Water Bottle,Accessories,West,3,450,0.05,1282.5,384.75,Cash
+S00385,2025-08-24,O10173,Keyboard,Electronics,South,2,1800,0.05,3420.0,752.4,Net Banking
+S00386,2025-09-08,O10657,Keyboard,Electronics,North,3,1800,0.15,4590.0,1009.8,Net Banking
+S00387,2025-01-18,O10782,Mouse,Electronics,North,3,650,0.0,1950.0,487.5,Cash
+S00388,2025-03-12,O10009,Water Bottle,Accessories,South,1,450,0.0,450.0,135.0,Net Banking
+S00389,2025-08-22,O10494,Office Chair,Furniture,West,1,8500,0.15,7225.0,1156.0,UPI
+S00390,2025-01-04,O10017,Pen Pack,Stationery,Central,1,90,0.0,90.0,36.0,Debit Card
+S00391,2025-10-02,O10183,Headphones,Electronics,North,1,3200,0.1,2880.0,576.0,UPI
+S00392,2025-09-26,O10539,Keyboard,Electronics,East,1,1800,0.15,1530.0,336.6,Debit Card
+S00393,2025-05-17,O10470,Desk,Furniture,Central,1,12000,0.1,10800.0,1512.0,Credit Card
+S00394,2025-12-23,O10669,Monitor,Electronics,North,1,14500,0.0,14500.0,2610.0,UPI
+S00395,2025-07-27,O10057,Desk,Furniture,North,1,12000,0.1,10800.0,1512.0,Credit Card
+S00396,2025-02-12,O10579,Notebook,Stationery,North,2,120,0.05,228.0,79.8,Net Banking
+S00397,2025-01-22,O10486,Monitor,Electronics,East,1,14500,0.15,12325.0,2218.5,UPI
+S00398,2025-02-08,O10577,Water Bottle,Accessories,North,3,450,0.15,1147.5,344.25,Credit Card
+S00399,2025-06-11,O10147,Laptop,Electronics,West,4,52000,0.15,176800.0,21216.0,UPI
+S00400,2025-06-03,O10398,Keyboard,Electronics,Central,1,1800,0.15,1530.0,336.6,Debit Card
+S00401,2025-07-16,O10512,Phone Stand,Accessories,East,1,350,0.0,350.0,105.0,UPI
+S00402,2025-02-20,O10348,Desk,Furniture,Central,1,12000,0.0,12000.0,1680.0,Net Banking
+S00403,2025-11-01,O10030,Desk,Furniture,East,4,12000,0.05,45600.0,6384.0,Cash
+S00404,2025-09-09,O10442,Monitor,Electronics,South,1,14500,0.1,13050.0,2349.0,Net Banking
+S00405,2025-12-05,O10302,Desk,Furniture,South,1,12000,0.15,10200.0,1428.0,UPI
+S00406,2025-02-12,O10757,Headphones,Electronics,West,1,3200,0.0,3200.0,640.0,Debit Card
+S00407,2025-07-04,O10455,Mouse,Electronics,East,1,650,0.05,617.5,154.38,Debit Card
+S00408,2025-02-22,O10459,Keyboard,Electronics,Central,1,1800,0.1,1620.0,356.4,Net Banking
+S00409,2025-09-20,O10362,Desk,Furniture,Central,1,12000,0.0,12000.0,1680.0,UPI
+S00410,2025-11-02,O10012,Backpack,Accessories,East,2,2100,0.1,3780.0,756.0,Cash
+S00411,2025-07-18,O10248,Mouse,Electronics,Central,2,650,0.15,1105.0,276.25,Net Banking
+S00412,2025-03-28,O10275,Water Bottle,Accessories,East,1,450,0.0,450.0,135.0,Debit Card
+S00413,2025-09-10,O10282,Keyboard,Electronics,West,1,1800,0.1,1620.0,356.4,Debit Card
+S00414,2025-09-05,O10738,Mouse,Electronics,West,1,650,0.0,650.0,162.5,Net Banking
+S00415,2025-11-12,O10311,Monitor,Electronics,North,1,14500,0.0,14500.0,2610.0,Cash
+S00416,2025-06-20,O10450,Backpack,Accessories,East,1,2100,0.05,1995.0,399.0,Cash
+S00417,2025-11-30,O10617,Backpack,Accessories,South,1,2100,0.05,1995.0,399.0,Cash
+S00418,2025-06-10,O10298,Keyboard,Electronics,West,4,1800,0.05,6840.0,1504.8,Net Banking
+S00419,2025-05-05,O10373,Office Chair,Furniture,North,1,8500,0.1,7650.0,1224.0,Net Banking
+S00420,2025-04-13,O10698,Backpack,Accessories,Central,4,2100,0.0,8400.0,1680.0,UPI
+S00421,2025-08-25,O10709,Phone Stand,Accessories,North,1,350,0.05,332.5,99.75,Cash
+S00422,2025-12-11,O10247,Notebook,Stationery,East,1,120,0.05,114.0,39.9,Credit Card
+S00423,2025-08-05,O10490,Desk,Furniture,Central,1,12000,0.15,10200.0,1428.0,Cash
+S00424,2025-10-01,O10556,Pen Pack,Stationery,North,3,90,0.1,243.0,97.2,Debit Card
+S00425,2025-12-26,O10111,Pen Pack,Stationery,South,1,90,0.0,90.0,36.0,Debit Card
+S00426,2025-03-27,O10660,Water Bottle,Accessories,West,1,450,0.15,382.5,114.75,Debit Card
+S00427,2025-08-09,O10227,Mouse,Electronics,Central,1,650,0.05,617.5,154.38,Net Banking
+S00428,2025-10-13,O10456,Backpack,Accessories,East,2,2100,0.0,4200.0,840.0,Cash
+S00429,2025-08-26,O10154,Water Bottle,Accessories,East,1,450,0.15,382.5,114.75,UPI
+S00430,2025-09-05,O10118,Mouse,Electronics,South,1,650,0.0,650.0,162.5,Debit Card
+S00431,2025-06-09,O10533,Office Chair,Furniture,West,1,8500,0.0,8500.0,1360.0,Debit Card
+S00432,2025-09-01,O10326,Mouse,Electronics,North,1,650,0.1,585.0,146.25,Debit Card
+S00433,2025-01-23,O10663,Phone Stand,Accessories,North,1,350,0.05,332.5,99.75,Credit Card
+S00434,2025-05-05,O10338,Pen Pack,Stationery,Central,1,90,0.0,90.0,36.0,Cash
+S00435,2025-08-25,O10190,Monitor,Electronics,West,2,14500,0.0,29000.0,5220.0,Cash
+S00436,2025-01-15,O10460,Phone Stand,Accessories,Central,1,350,0.0,350.0,105.0,Cash
+S00437,2025-07-19,O10285,Laptop,Electronics,North,2,52000,0.0,104000.0,12480.0,Net Banking
+S00438,2025-02-22,O10201,Pen Pack,Stationery,West,1,90,0.05,85.5,34.2,UPI
+S00439,2025-05-15,O10654,Water Bottle,Accessories,East,2,450,0.15,765.0,229.5,Net Banking
+S00440,2025-07-18,O10356,Backpack,Accessories,East,1,2100,0.0,2100.0,420.0,Cash
+S00441,2025-11-13,O10629,Keyboard,Electronics,Central,2,1800,0.05,3420.0,752.4,UPI
+S00442,2025-12-11,O10312,Keyboard,Electronics,North,1,1800,0.0,1800.0,396.0,Credit Card
+S00443,2025-07-11,O10428,Phone Stand,Accessories,Central,1,350,0.1,315.0,94.5,Credit Card
+S00444,2025-10-22,O10650,Desk,Furniture,Central,1,12000,0.1,10800.0,1512.0,Credit Card
+S00445,2025-10-12,O10191,Keyboard,Electronics,East,1,1800,0.0,1800.0,396.0,Cash
+S00446,2025-11-14,O10496,Laptop,Electronics,South,2,52000,0.0,104000.0,12480.0,Credit Card
+S00447,2025-07-16,O10418,Pen Pack,Stationery,West,1,90,0.1,81.0,32.4,Cash
+S00448,2025-12-30,O10578,Notebook,Stationery,North,1,120,0.0,120.0,42.0,Credit Card
+S00449,2025-05-30,O10295,Laptop,Electronics,South,1,52000,0.15,44200.0,5304.0,Cash
+S00450,2025-10-17,O10562,Phone Stand,Accessories,Central,2,350,0.1,630.0,189.0,UPI
+S00451,2025-10-21,O10375,Mouse,Electronics,Central,1,650,0.15,552.5,138.12,UPI
+S00452,2025-08-14,O10104,Pen Pack,Stationery,South,1,90,0.1,81.0,32.4,Debit Card
+S00453,2025-01-17,O10449,Notebook,Stationery,North,1,120,0.0,120.0,42.0,Credit Card
+S00454,2025-04-18,O10727,Phone Stand,Accessories,Central,1,350,0.05,332.5,99.75,Cash
+S00455,2025-03-26,O10211,Backpack,Accessories,North,1,2100,0.0,2100.0,420.0,Net Banking
+S00456,2025-06-29,O10172,Pen Pack,Stationery,East,1,90,0.15,76.5,30.6,Debit Card
+S00457,2025-05-29,O10695,Backpack,Accessories,North,1,2100,0.15,1785.0,357.0,Credit Card
+S00458,2025-07-30,O10718,Laptop,Electronics,South,4,52000,0.0,208000.0,24960.0,Credit Card
+S00459,2025-03-16,O10779,Phone Stand,Accessories,West,1,350,0.0,350.0,105.0,Cash
+S00460,2025-03-14,O10384,Backpack,Accessories,West,1,2100,0.1,1890.0,378.0,UPI
+S00461,2025-11-21,O10711,Mouse,Electronics,East,1,650,0.05,617.5,154.38,Cash
+S00462,2025-09-07,O10748,Office Chair,Furniture,West,1,8500,0.0,8500.0,1360.0,Debit Card
+S00463,2025-02-02,O10216,Pen Pack,Stationery,West,1,90,0.1,81.0,32.4,Debit Card
+S00464,2025-06-15,O10133,Headphones,Electronics,Central,1,3200,0.15,2720.0,544.0,Cash
+S00465,2025-06-25,O10101,Water Bottle,Accessories,West,2,450,0.0,900.0,270.0,UPI
+S00466,2025-03-05,O10438,Keyboard,Electronics,South,1,1800,0.0,1800.0,396.0,Credit Card
+S00467,2025-11-29,O10095,Headphones,Electronics,East,1,3200,0.05,3040.0,608.0,Debit Card
+S00468,2025-02-12,O10053,Office Chair,Furniture,West,2,8500,0.0,17000.0,2720.0,Debit Card
+S00469,2025-12-25,O10720,Monitor,Electronics,North,1,14500,0.0,14500.0,2610.0,UPI
+S00470,2025-04-20,O10231,Notebook,Stationery,Central,1,120,0.15,102.0,35.7,Cash
+S00471,2025-01-05,O10432,Laptop,Electronics,South,2,52000,0.0,104000.0,12480.0,Cash
+S00472,2025-02-06,O10105,Monitor,Electronics,East,1,14500,0.0,14500.0,2610.0,Debit Card
+S00473,2025-06-03,O10656,Keyboard,Electronics,South,1,1800,0.0,1800.0,396.0,UPI
+S00474,2025-09-29,O10450,Backpack,Accessories,East,1,2100,0.0,2100.0,420.0,Credit Card
+S00475,2025-11-18,O10630,Phone Stand,Accessories,West,1,350,0.1,315.0,94.5,Credit Card
+S00476,2025-02-14,O10603,Mouse,Electronics,West,1,650,0.0,650.0,162.5,Debit Card
+S00477,2025-08-08,O10283,Office Chair,Furniture,North,2,8500,0.0,17000.0,2720.0,Credit Card
+S00478,2025-10-11,O10291,Backpack,Accessories,North,1,2100,0.15,1785.0,357.0,Debit Card
+S00479,2025-04-16,O10765,Pen Pack,Stationery,West,1,90,0.0,90.0,36.0,Debit Card
+S00480,2025-11-27,O10506,Laptop,Electronics,West,2,52000,0.0,104000.0,12480.0,UPI
+S00481,2025-05-04,O10540,Notebook,Stationery,North,1,120,0.0,120.0,42.0,Debit Card
+S00482,2025-06-12,O10430,Keyboard,Electronics,East,1,1800,0.15,1530.0,336.6,Net Banking
+S00483,2025-12-16,O10017,Keyboard,Electronics,Central,2,1800,0.0,3600.0,792.0,UPI
+S00484,2025-01-08,O10407,Headphones,Electronics,Central,1,3200,0.0,3200.0,640.0,Debit Card
+S00485,2025-11-18,O10433,Phone Stand,Accessories,West,1,350,0.1,315.0,94.5,UPI
+S00486,2025-11-24,O10284,Pen Pack,Stationery,North,1,90,0.0,90.0,36.0,Debit Card
+S00487,2025-02-10,O10549,Pen Pack,Stationery,East,3,90,0.0,270.0,108.0,Cash
+S00488,2025-10-28,O10317,Water Bottle,Accessories,West,2,450,0.0,900.0,270.0,Credit Card
+S00489,2025-01-30,O10118,Monitor,Electronics,West,1,14500,0.1,13050.0,2349.0,Net Banking
+S00490,2025-11-08,O10122,Laptop,Electronics,North,1,52000,0.0,52000.0,6240.0,Credit Card
+S00491,2025-12-26,O10535,Laptop,Electronics,Central,1,52000,0.05,49400.0,5928.0,Debit Card
+S00492,2025-03-27,O10750,Office Chair,Furniture,North,1,8500,0.05,8075.0,1292.0,UPI
+S00493,2025-06-21,O10269,Desk,Furniture,Central,1,12000,0.0,12000.0,1680.0,UPI
+S00494,2025-09-12,O10511,Notebook,Stationery,Central,1,120,0.0,120.0,42.0,Credit Card
+S00495,2025-07-08,O10587,Keyboard,Electronics,North,1,1800,0.0,1800.0,396.0,Credit Card
+S00496,2025-09-18,O10250,Laptop,Electronics,North,1,52000,0.0,52000.0,6240.0,Cash
+S00497,2025-07-06,O10036,Desk,Furniture,Central,3,12000,0.0,36000.0,5040.0,Cash
+S00498,2025-04-25,O10277,Office Chair,Furniture,North,1,8500,0.05,8075.0,1292.0,Net Banking
+S00499,2025-07-10,O10183,Mouse,Electronics,South,1,650,0.0,650.0,162.5,Net Banking
+S00500,2025-01-24,O10289,Desk,Furniture,East,1,12000,0.1,10800.0,1512.0,Debit Card
+S00501,2025-02-14,O10205,Pen Pack,Stationery,East,1,90,0.05,85.5,34.2,Net Banking
+S00502,2025-06-05,O10377,Phone Stand,Accessories,Central,1,350,0.1,315.0,94.5,Cash
+S00503,2025-04-11,O10154,Phone Stand,Accessories,North,3,350,0.0,1050.0,315.0,Cash
+S00504,2025-01-13,O10343,Monitor,Electronics,North,1,14500,0.0,14500.0,2610.0,Cash
+S00505,2025-06-07,O10429,Mouse,Electronics,West,1,650,0.0,650.0,162.5,UPI
+S00506,2025-03-14,O10237,Phone Stand,Accessories,Central,1,350,0.0,350.0,105.0,Cash
+S00507,2025-12-25,O10594,Office Chair,Furniture,North,1,8500,0.0,8500.0,1360.0,Net Banking
+S00508,2025-03-10,O10606,Water Bottle,Accessories,Central,2,450,0.0,900.0,270.0,UPI
+S00509,2025-08-11,O10298,Water Bottle,Accessories,East,4,450,0.0,1800.0,540.0,Debit Card
+S00510,2025-07-21,O10325,Phone Stand,Accessories,West,2,350,0.05,665.0,199.5,Debit Card
+S00511,2025-04-30,O10798,Mouse,Electronics,Central,3,650,0.0,1950.0,487.5,UPI
+S00512,2025-03-21,O10321,Mouse,Electronics,West,1,650,0.1,585.0,146.25,UPI
+S00513,2025-10-02,O10462,Office Chair,Furniture,East,4,8500,0.0,34000.0,5440.0,Cash
+S00514,2025-05-16,O10721,Mouse,Electronics,Central,1,650,0.05,617.5,154.38,UPI
+S00515,2025-04-21,O10364,Office Chair,Furniture,West,1,8500,0.0,8500.0,1360.0,Net Banking
+S00516,2025-01-26,O10031,Water Bottle,Accessories,West,1,450,0.0,450.0,135.0,Cash
+S00517,2025-10-12,O10473,Phone Stand,Accessories,North,1,350,0.0,350.0,105.0,Credit Card
+S00518,2025-03-04,O10133,Laptop,Electronics,South,1,52000,0.0,52000.0,6240.0,Cash
+S00519,2025-07-10,O10596,Water Bottle,Accessories,Central,1,450,0.0,450.0,135.0,Debit Card
+S00520,2025-02-08,O10661,Laptop,Electronics,West,4,52000,0.0,208000.0,24960.0,Credit Card
+S00521,2025-02-17,O10051,Office Chair,Furniture,South,1,8500,0.1,7650.0,1224.0,Net Banking
+S00522,2025-08-10,O10391,Phone Stand,Accessories,West,1,350,0.0,350.0,105.0,Credit Card
+S00523,2025-07-01,O10286,Monitor,Electronics,West,3,14500,0.05,41325.0,7438.5,Credit Card
+S00524,2025-01-18,O10662,Backpack,Accessories,East,1,2100,0.0,2100.0,420.0,Cash
+S00525,2025-07-30,O10286,Pen Pack,Stationery,West,1,90,0.0,90.0,36.0,Credit Card
+S00526,2025-08-03,O10255,Monitor,Electronics,Central,1,14500,0.15,12325.0,2218.5,UPI
+S00527,2025-07-15,O10800,Phone Stand,Accessories,West,1,350,0.15,297.5,89.25,Debit Card
+S00528,2025-10-17,O10184,Pen Pack,Stationery,North,1,90,0.05,85.5,34.2,Debit Card
+S00529,2025-11-02,O10059,Monitor,Electronics,West,1,14500,0.05,13775.0,2479.5,Net Banking
+S00530,2025-07-03,O10102,Backpack,Accessories,South,4,2100,0.0,8400.0,1680.0,Credit Card
+S00531,2025-05-17,O10782,Pen Pack,Stationery,South,2,90,0.0,180.0,72.0,Net Banking
+S00532,2025-07-18,O10180,Office Chair,Furniture,South,3,8500,0.0,25500.0,4080.0,Net Banking
+S00533,2025-06-12,O10028,Phone Stand,Accessories,East,2,350,0.15,595.0,178.5,Net Banking
+S00534,2025-10-16,O10504,Keyboard,Electronics,Central,1,1800,0.0,1800.0,396.0,Debit Card
+S00535,2025-03-31,O10238,Notebook,Stationery,Central,1,120,0.0,120.0,42.0,Credit Card
+S00536,2025-01-11,O10628,Pen Pack,Stationery,South,1,90,0.05,85.5,34.2,Credit Card
+S00537,2025-06-24,O10060,Phone Stand,Accessories,North,1,350,0.05,332.5,99.75,Credit Card
+S00538,2025-10-28,O10538,Phone Stand,Accessories,East,3,350,0.0,1050.0,315.0,UPI
+S00539,2025-07-11,O10600,Phone Stand,Accessories,North,3,350,0.1,945.0,283.5,Debit Card
+S00540,2025-06-04,O10749,Office Chair,Furniture,West,1,8500,0.0,8500.0,1360.0,Cash
+S00541,2025-11-29,O10710,Office Chair,Furniture,Central,1,8500,0.15,7225.0,1156.0,Debit Card
+S00542,2025-04-25,O10387,Water Bottle,Accessories,East,1,450,0.0,450.0,135.0,Debit Card
+S00543,2025-03-07,O10400,Keyboard,Electronics,Central,2,1800,0.15,3060.0,673.2,UPI
+S00544,2025-04-04,O10226,Backpack,Accessories,Central,1,2100,0.15,1785.0,357.0,UPI
+S00545,2025-09-12,O10243,Keyboard,Electronics,East,1,1800,0.0,1800.0,396.0,Debit Card
+S00546,2025-03-27,O10725,Water Bottle,Accessories,East,3,450,0.0,1350.0,405.0,Cash
+S00547,2025-01-06,O10358,Headphones,Electronics,East,1,3200,0.0,3200.0,640.0,UPI
+S00548,2025-01-01,O10170,Laptop,Electronics,West,1,52000,0.1,46800.0,5616.0,Cash
+S00549,2025-07-13,O10490,Office Chair,Furniture,Central,1,8500,0.0,8500.0,1360.0,Credit Card
+S00550,2025-03-25,O10301,Notebook,Stationery,North,1,120,0.0,120.0,42.0,Debit Card
+S00551,2025-05-14,O10384,Mouse,Electronics,South,1,650,0.0,650.0,162.5,UPI
+S00552,2025-10-08,O10494,Mouse,Electronics,North,1,650,0.15,552.5,138.12,Cash
+S00553,2025-12-01,O10160,Keyboard,Electronics,North,1,1800,0.1,1620.0,356.4,UPI
+S00554,2025-06-19,O10713,Monitor,Electronics,Central,4,14500,0.1,52200.0,9396.0,Net Banking
+S00555,2025-05-16,O10098,Water Bottle,Accessories,North,1,450,0.0,450.0,135.0,Cash
+S00556,2025-10-20,O10055,Pen Pack,Stationery,East,2,90,0.0,180.0,72.0,UPI
+S00557,2025-08-07,O10491,Mouse,Electronics,South,1,650,0.15,552.5,138.12,UPI
+S00558,2025-01-14,O10083,Monitor,Electronics,West,1,14500,0.05,13775.0,2479.5,UPI
+S00559,2025-06-07,O10093,Desk,Furniture,Central,1,12000,0.05,11400.0,1596.0,Cash
+S00560,2025-04-05,O10191,Office Chair,Furniture,West,3,8500,0.05,24225.0,3876.0,UPI
+S00561,2025-05-15,O10275,Notebook,Stationery,Central,1,120,0.0,120.0,42.0,UPI
+S00562,2025-03-19,O10684,Phone Stand,Accessories,East,2,350,0.0,700.0,210.0,Net Banking
+S00563,2025-07-31,O10396,Backpack,Accessories,Central,1,2100,0.0,2100.0,420.0,Cash
+S00564,2025-10-02,O10586,Water Bottle,Accessories,South,2,450,0.1,810.0,243.0,Cash
+S00565,2025-06-03,O10514,Mouse,Electronics,Central,1,650,0.0,650.0,162.5,Net Banking
+S00566,2025-10-20,O10123,Water Bottle,Accessories,West,4,450,0.0,1800.0,540.0,Credit Card
+S00567,2025-03-27,O10043,Monitor,Electronics,West,2,14500,0.0,29000.0,5220.0,UPI
+S00568,2025-12-16,O10609,Desk,Furniture,East,1,12000,0.0,12000.0,1680.0,Debit Card
+S00569,2025-02-04,O10565,Mouse,Electronics,East,1,650,0.1,585.0,146.25,Debit Card
+S00570,2025-09-24,O10717,Notebook,Stationery,Central,3,120,0.0,360.0,126.0,Net Banking
+S00571,2025-09-25,O10151,Desk,Furniture,Central,1,12000,0.0,12000.0,1680.0,Net Banking
+S00572,2025-10-26,O10798,Mouse,Electronics,North,3,650,0.15,1657.5,414.38,Debit Card
+S00573,2025-10-02,O10392,Office Chair,Furniture,West,3,8500,0.05,24225.0,3876.0,Net Banking
+S00574,2025-11-08,O10412,Notebook,Stationery,South,1,120,0.05,114.0,39.9,Net Banking
+S00575,2025-11-08,O10405,Water Bottle,Accessories,East,2,450,0.0,900.0,270.0,Credit Card
+S00576,2025-01-26,O10381,Phone Stand,Accessories,North,1,350,0.05,332.5,99.75,Debit Card
+S00577,2025-06-05,O10712,Headphones,Electronics,North,1,3200,0.1,2880.0,576.0,Credit Card
+S00578,2025-03-10,O10792,Headphones,Electronics,East,4,3200,0.1,11520.0,2304.0,Debit Card
+S00579,2025-08-02,O10452,Backpack,Accessories,South,1,2100,0.0,2100.0,420.0,Cash
+S00580,2025-09-06,O10527,Pen Pack,Stationery,South,2,90,0.0,180.0,72.0,UPI
+S00581,2025-06-09,O10799,Phone Stand,Accessories,Central,1,350,0.0,350.0,105.0,Net Banking
+S00582,2025-01-15,O10059,Keyboard,Electronics,South,1,1800,0.0,1800.0,396.0,UPI
+S00583,2025-08-22,O10280,Laptop,Electronics,East,3,52000,0.0,156000.0,18720.0,Cash
+S00584,2025-09-16,O10697,Desk,Furniture,North,1,12000,0.0,12000.0,1680.0,Credit Card
+S00585,2025-07-10,O10485,Notebook,Stationery,Central,1,120,0.0,120.0,42.0,Net Banking
+S00586,2025-06-29,O10766,Office Chair,Furniture,North,1,8500,0.05,8075.0,1292.0,Debit Card
+S00587,2025-01-15,O10798,Desk,Furniture,South,1,12000,0.15,10200.0,1428.0,Credit Card
+S00588,2025-11-28,O10667,Monitor,Electronics,West,2,14500,0.05,27550.0,4959.0,Net Banking
+S00589,2025-01-11,O10662,Water Bottle,Accessories,South,1,450,0.0,450.0,135.0,Net Banking
+S00590,2025-01-05,O10729,Monitor,Electronics,East,1,14500,0.05,13775.0,2479.5,Cash
+S00591,2025-07-12,O10477,Office Chair,Furniture,East,1,8500,0.0,8500.0,1360.0,Net Banking
+S00592,2025-11-16,O10523,Desk,Furniture,East,1,12000,0.0,12000.0,1680.0,Net Banking
+S00593,2025-11-28,O10700,Backpack,Accessories,North,1,2100,0.05,1995.0,399.0,Cash
+S00594,2025-02-02,O10283,Office Chair,Furniture,East,4,8500,0.05,32300.0,5168.0,Debit Card
+S00595,2025-04-07,O10058,Keyboard,Electronics,Central,1,1800,0.0,1800.0,396.0,Cash
+S00596,2025-12-05,O10671,Office Chair,Furniture,West,2,8500,0.0,17000.0,2720.0,Debit Card
+S00597,2025-05-13,O10597,Desk,Furniture,Central,1,12000,0.0,12000.0,1680.0,Credit Card
+S00598,2025-06-25,O10653,Phone Stand,Accessories,West,2,350,0.15,595.0,178.5,Debit Card
+S00599,2025-09-17,O10185,Headphones,Electronics,East,2,3200,0.15,5440.0,1088.0,UPI
+S00600,2025-08-30,O10781,Keyboard,Electronics,South,2,1800,0.15,3060.0,673.2,Debit Card
+S00601,2025-12-02,O10762,Mouse,Electronics,East,1,650,0.0,650.0,162.5,Cash
+S00602,2025-06-19,O10474,Office Chair,Furniture,North,1,8500,0.05,8075.0,1292.0,Cash
+S00603,2025-01-28,O10072,Water Bottle,Accessories,West,1,450,0.15,382.5,114.75,Credit Card
+S00604,2025-09-14,O10542,Mouse,Electronics,East,2,650,0.1,1170.0,292.5,Cash
+S00605,2025-01-28,O10350,Keyboard,Electronics,West,1,1800,0.0,1800.0,396.0,Net Banking
+S00606,2025-08-23,O10797,Keyboard,Electronics,North,1,1800,0.0,1800.0,396.0,Cash
+S00607,2025-06-20,O10649,Water Bottle,Accessories,North,4,450,0.05,1710.0,513.0,UPI
+S00608,2025-08-20,O10590,Headphones,Electronics,South,1,3200,0.0,3200.0,640.0,Cash
+S00609,2025-02-15,O10413,Keyboard,Electronics,West,1,1800,0.1,1620.0,356.4,Cash
+S00610,2025-07-16,O10748,Laptop,Electronics,East,1,52000,0.0,52000.0,6240.0,UPI
+S00611,2025-06-14,O10641,Pen Pack,Stationery,South,1,90,0.0,90.0,36.0,Credit Card
+S00612,2025-12-22,O10392,Office Chair,Furniture,Central,1,8500,0.0,8500.0,1360.0,Net Banking
+S00613,2025-06-06,O10305,Keyboard,Electronics,East,1,1800,0.0,1800.0,396.0,Cash
+S00614,2025-09-24,O10703,Backpack,Accessories,South,1,2100,0.1,1890.0,378.0,Debit Card
+S00615,2025-09-08,O10413,Office Chair,Furniture,North,2,8500,0.0,17000.0,2720.0,Credit Card
+S00616,2025-04-25,O10751,Phone Stand,Accessories,North,4,350,0.0,1400.0,420.0,Net Banking
+S00617,2025-09-16,O10384,Keyboard,Electronics,East,1,1800,0.0,1800.0,396.0,Net Banking
+S00618,2025-11-16,O10677,Laptop,Electronics,North,1,52000,0.0,52000.0,6240.0,UPI
+S00619,2025-01-25,O10389,Phone Stand,Accessories,North,1,350,0.1,315.0,94.5,Net Banking
+S00620,2025-05-10,O10711,Notebook,Stationery,North,2,120,0.0,240.0,84.0,Debit Card
+S00621,2025-08-04,O10276,Water Bottle,Accessories,Central,1,450,0.15,382.5,114.75,Net Banking
+S00622,2025-12-25,O10523,Keyboard,Electronics,Central,1,1800,0.0,1800.0,396.0,UPI
+S00623,2025-05-25,O10203,Mouse,Electronics,Central,2,650,0.1,1170.0,292.5,Credit Card
+S00624,2025-05-15,O10720,Pen Pack,Stationery,West,4,90,0.05,342.0,136.8,Debit Card
+S00625,2025-03-24,O10704,Laptop,Electronics,West,1,52000,0.0,52000.0,6240.0,Debit Card
+S00626,2025-05-01,O10113,Laptop,Electronics,Central,1,52000,0.0,52000.0,6240.0,Cash
+S00627,2025-03-18,O10740,Mouse,Electronics,North,2,650,0.0,1300.0,325.0,Debit Card
+S00628,2025-11-26,O10270,Monitor,Electronics,West,1,14500,0.05,13775.0,2479.5,UPI
+S00629,2025-02-21,O10368,Keyboard,Electronics,East,3,1800,0.05,5130.0,1128.6,Cash
+S00630,2025-03-01,O10009,Mouse,Electronics,South,2,650,0.0,1300.0,325.0,Credit Card
+S00631,2025-06-18,O10274,Office Chair,Furniture,North,3,8500,0.15,21675.0,3468.0,Debit Card
+S00632,2025-06-25,O10467,Keyboard,Electronics,East,1,1800,0.1,1620.0,356.4,Cash
+S00633,2025-12-20,O10115,Notebook,Stationery,South,2,120,0.0,240.0,84.0,UPI
+S00634,2025-03-23,O10494,Mouse,Electronics,Central,1,650,0.15,552.5,138.12,Cash
+S00635,2025-04-03,O10626,Backpack,Accessories,North,1,2100,0.05,1995.0,399.0,Credit Card
+S00636,2025-09-05,O10451,Notebook,Stationery,North,1,120,0.1,108.0,37.8,UPI
+S00637,2025-05-14,O10785,Water Bottle,Accessories,Central,1,450,0.15,382.5,114.75,Net Banking
+S00638,2025-04-25,O10535,Water Bottle,Accessories,Central,3,450,0.15,1147.5,344.25,UPI
+S00639,2025-08-10,O10354,Water Bottle,Accessories,West,2,450,0.1,810.0,243.0,Credit Card
+S00640,2025-10-13,O10517,Backpack,Accessories,West,1,2100,0.0,2100.0,420.0,Cash
+S00641,2025-03-26,O10246,Mouse,Electronics,East,2,650,0.05,1235.0,308.75,Debit Card
+S00642,2025-01-26,O10412,Pen Pack,Stationery,South,1,90,0.1,81.0,32.4,UPI
+S00643,2025-08-24,O10090,Notebook,Stationery,West,2,120,0.1,216.0,75.6,Cash
+S00644,2025-06-11,O10105,Mouse,Electronics,West,4,650,0.0,2600.0,650.0,Cash
+S00645,2025-01-19,O10618,Pen Pack,Stationery,Central,1,90,0.0,90.0,36.0,Debit Card
+S00646,2025-09-18,O10349,Pen Pack,Stationery,East,1,90,0.1,81.0,32.4,UPI
+S00647,2025-04-25,O10614,Notebook,Stationery,West,1,120,0.15,102.0,35.7,Debit Card
+S00648,2025-08-20,O10002,Mouse,Electronics,East,1,650,0.0,650.0,162.5,Debit Card
+S00649,2025-11-21,O10718,Headphones,Electronics,North,1,3200,0.05,3040.0,608.0,UPI
+S00650,2025-03-26,O10109,Notebook,Stationery,East,1,120,0.1,108.0,37.8,Net Banking
+S00651,2025-04-11,O10220,Monitor,Electronics,West,1,14500,0.1,13050.0,2349.0,Credit Card
+S00652,2025-06-23,O10648,Mouse,Electronics,Central,2,650,0.0,1300.0,325.0,UPI
+S00653,2025-08-19,O10137,Notebook,Stationery,West,2,120,0.15,204.0,71.4,UPI
+S00654,2025-09-29,O10599,Phone Stand,Accessories,West,1,350,0.1,315.0,94.5,Net Banking
+S00655,2025-04-01,O10106,Phone Stand,Accessories,West,1,350,0.0,350.0,105.0,Net Banking
+S00656,2025-11-07,O10428,Office Chair,Furniture,Central,1,8500,0.1,7650.0,1224.0,Credit Card
+S00657,2025-05-21,O10463,Desk,Furniture,South,4,12000,0.05,45600.0,6384.0,Credit Card
+S00658,2025-07-31,O10306,Backpack,Accessories,Central,2,2100,0.15,3570.0,714.0,Debit Card
+S00659,2025-12-31,O10205,Phone Stand,Accessories,South,3,350,0.0,1050.0,315.0,Net Banking
+S00660,2025-05-29,O10727,Water Bottle,Accessories,South,1,450,0.0,450.0,135.0,Net Banking
+S00661,2025-10-05,O10779,Phone Stand,Accessories,East,1,350,0.0,350.0,105.0,Net Banking
+S00662,2025-09-03,O10690,Backpack,Accessories,Central,1,2100,0.1,1890.0,378.0,Debit Card
+S00663,2025-08-05,O10390,Laptop,Electronics,South,1,52000,0.0,52000.0,6240.0,UPI
+S00664,2025-12-10,O10293,Laptop,Electronics,East,1,52000,0.0,52000.0,6240.0,Credit Card
+S00665,2025-02-01,O10771,Phone Stand,Accessories,Central,2,350,0.0,700.0,210.0,UPI
+S00666,2025-07-03,O10229,Notebook,Stationery,Central,1,120,0.15,102.0,35.7,Cash
+S00667,2025-05-02,O10709,Pen Pack,Stationery,North,2,90,0.05,171.0,68.4,Cash
+S00668,2025-07-18,O10565,Desk,Furniture,North,3,12000,0.05,34200.0,4788.0,UPI
+S00669,2025-05-09,O10230,Monitor,Electronics,East,1,14500,0.1,13050.0,2349.0,Net Banking
+S00670,2025-10-07,O10301,Phone Stand,Accessories,West,1,350,0.0,350.0,105.0,Credit Card
+S00671,2025-12-16,O10752,Mouse,Electronics,Central,1,650,0.0,650.0,162.5,UPI
+S00672,2025-07-13,O10270,Laptop,Electronics,South,1,52000,0.15,44200.0,5304.0,Credit Card
+S00673,2025-10-27,O10726,Headphones,Electronics,South,1,3200,0.1,2880.0,576.0,UPI
+S00674,2025-03-20,O10677,Office Chair,Furniture,East,1,8500,0.15,7225.0,1156.0,Cash
+S00675,2025-10-21,O10538,Pen Pack,Stationery,South,1,90,0.05,85.5,34.2,Credit Card
+S00676,2025-09-24,O10425,Mouse,Electronics,Central,2,650,0.0,1300.0,325.0,Net Banking
+S00677,2025-07-26,O10679,Mouse,Electronics,East,1,650,0.0,650.0,162.5,Debit Card
+S00678,2025-07-04,O10543,Headphones,Electronics,West,1,3200,0.15,2720.0,544.0,Net Banking
+S00679,2025-11-29,O10456,Laptop,Electronics,South,1,52000,0.05,49400.0,5928.0,Net Banking
+S00680,2025-11-15,O10390,Monitor,Electronics,North,3,14500,0.05,41325.0,7438.5,Cash
+S00681,2025-05-12,O10529,Pen Pack,Stationery,East,2,90,0.0,180.0,72.0,Net Banking
+S00682,2025-09-18,O10667,Notebook,Stationery,South,1,120,0.05,114.0,39.9,Debit Card
+S00683,2025-09-21,O10791,Mouse,Electronics,Central,3,650,0.0,1950.0,487.5,Net Banking
+S00684,2025-01-04,O10701,Water Bottle,Accessories,West,1,450,0.0,450.0,135.0,UPI
+S00685,2025-04-16,O10662,Pen Pack,Stationery,North,2,90,0.1,162.0,64.8,Credit Card
+S00686,2025-01-13,O10089,Notebook,Stationery,North,2,120,0.0,240.0,84.0,UPI
+S00687,2025-04-02,O10233,Headphones,Electronics,East,1,3200,0.15,2720.0,544.0,Cash
+S00688,2025-07-18,O10323,Notebook,Stationery,North,1,120,0.1,108.0,37.8,Cash
+S00689,2025-12-11,O10064,Mouse,Electronics,Central,1,650,0.15,552.5,138.12,UPI
+S00690,2025-12-25,O10108,Mouse,Electronics,East,1,650,0.15,552.5,138.12,Debit Card
+S00691,2025-11-07,O10390,Mouse,Electronics,West,1,650,0.1,585.0,146.25,UPI
+S00692,2025-08-31,O10764,Keyboard,Electronics,West,1,1800,0.0,1800.0,396.0,Net Banking
+S00693,2025-06-01,O10011,Water Bottle,Accessories,Central,1,450,0.05,427.5,128.25,Net Banking
+S00694,2025-03-14,O10610,Mouse,Electronics,West,1,650,0.15,552.5,138.12,Net Banking
+S00695,2025-10-08,O10216,Mouse,Electronics,West,1,650,0.05,617.5,154.38,Net Banking
+S00696,2025-03-14,O10258,Keyboard,Electronics,South,1,1800,0.15,1530.0,336.6,UPI
+S00697,2025-04-03,O10769,Water Bottle,Accessories,Central,2,450,0.0,900.0,270.0,Cash
+S00698,2025-11-27,O10256,Pen Pack,Stationery,North,1,90,0.0,90.0,36.0,Credit Card
+S00699,2025-10-25,O10131,Notebook,Stationery,South,3,120,0.05,342.0,119.7,UPI
+S00700,2025-05-26,O10325,Backpack,Accessories,West,1,2100,0.0,2100.0,420.0,Cash
+S00701,2025-06-18,O10156,Backpack,Accessories,Central,2,2100,0.15,3570.0,714.0,Net Banking
+S00702,2025-07-06,O10004,Office Chair,Furniture,East,3,8500,0.0,25500.0,4080.0,Credit Card
+S00703,2025-04-24,O10283,Phone Stand,Accessories,East,2,350,0.1,630.0,189.0,Credit Card
+S00704,2025-12-14,O10473,Phone Stand,Accessories,West,1,350,0.1,315.0,94.5,Debit Card
+S00705,2025-06-06,O10661,Notebook,Stationery,Central,1,120,0.0,120.0,42.0,UPI
+S00706,2025-05-24,O10269,Keyboard,Electronics,North,3,1800,0.0,5400.0,1188.0,UPI
+S00707,2025-01-10,O10592,Pen Pack,Stationery,West,1,90,0.15,76.5,30.6,Net Banking
+S00708,2025-04-19,O10552,Laptop,Electronics,West,1,52000,0.15,44200.0,5304.0,Credit Card
+S00709,2025-07-07,O10750,Desk,Furniture,East,1,12000,0.15,10200.0,1428.0,Credit Card
+S00710,2025-08-26,O10372,Pen Pack,Stationery,Central,1,90,0.1,81.0,32.4,UPI
+S00711,2025-12-06,O10700,Monitor,Electronics,South,2,14500,0.15,24650.0,4437.0,Net Banking
+S00712,2025-03-13,O10579,Notebook,Stationery,South,1,120,0.15,102.0,35.7,Cash
+S00713,2025-07-03,O10237,Laptop,Electronics,North,1,52000,0.1,46800.0,5616.0,Debit Card
+S00714,2025-07-09,O10530,Monitor,Electronics,East,1,14500,0.0,14500.0,2610.0,Cash
+S00715,2025-08-29,O10664,Notebook,Stationery,East,3,120,0.0,360.0,126.0,UPI
+S00716,2025-12-27,O10759,Pen Pack,Stationery,East,1,90,0.05,85.5,34.2,Net Banking
+S00717,2025-10-06,O10374,Backpack,Accessories,Central,1,2100,0.1,1890.0,378.0,UPI
+S00718,2025-09-22,O10528,Headphones,Electronics,West,1,3200,0.0,3200.0,640.0,Debit Card
+S00719,2025-06-26,O10006,Notebook,Stationery,Central,2,120,0.15,204.0,71.4,Credit Card
+S00720,2025-08-14,O10658,Keyboard,Electronics,East,1,1800,0.15,1530.0,336.6,Credit Card
+S00721,2025-03-18,O10734,Keyboard,Electronics,North,1,1800,0.15,1530.0,336.6,Credit Card
+S00722,2025-08-01,O10691,Office Chair,Furniture,West,2,8500,0.1,15300.0,2448.0,Cash
+S00723,2025-04-18,O10022,Backpack,Accessories,South,1,2100,0.1,1890.0,378.0,UPI
+S00724,2025-03-07,O10644,Backpack,Accessories,Central,1,2100,0.0,2100.0,420.0,UPI
+S00725,2025-10-21,O10184,Keyboard,Electronics,Central,1,1800,0.05,1710.0,376.2,Cash
+S00726,2025-11-03,O10087,Backpack,Accessories,South,1,2100,0.05,1995.0,399.0,Cash
+S00727,2025-11-07,O10224,Notebook,Stationery,West,2,120,0.0,240.0,84.0,Net Banking
+S00728,2025-03-15,O10638,Backpack,Accessories,Central,2,2100,0.0,4200.0,840.0,Debit Card
+S00729,2025-03-27,O10610,Phone Stand,Accessories,Central,2,350,0.1,630.0,189.0,UPI
+S00730,2025-04-28,O10016,Desk,Furniture,South,1,12000,0.0,12000.0,1680.0,Net Banking
+S00731,2025-09-16,O10620,Water Bottle,Accessories,North,1,450,0.0,450.0,135.0,Credit Card
+S00732,2025-09-01,O10515,Backpack,Accessories,North,1,2100,0.15,1785.0,357.0,UPI
+S00733,2025-09-04,O10552,Water Bottle,Accessories,North,1,450,0.15,382.5,114.75,Cash
+S00734,2025-09-25,O10714,Desk,Furniture,Central,1,12000,0.0,12000.0,1680.0,Cash
+S00735,2025-04-28,O10358,Notebook,Stationery,Central,2,120,0.1,216.0,75.6,Net Banking
+S00736,2025-02-20,O10784,Desk,Furniture,South,1,12000,0.1,10800.0,1512.0,UPI
+S00737,2025-05-26,O10263,Backpack,Accessories,South,3,2100,0.1,5670.0,1134.0,UPI
+S00738,2025-12-30,O10535,Phone Stand,Accessories,North,2,350,0.15,595.0,178.5,Net Banking
+S00739,2025-01-04,O10418,Desk,Furniture,East,2,12000,0.05,22800.0,3192.0,UPI
+S00740,2025-03-21,O10267,Desk,Furniture,Central,2,12000,0.05,22800.0,3192.0,Cash
+S00741,2025-10-17,O10773,Office Chair,Furniture,South,1,8500,0.1,7650.0,1224.0,Cash
+S00742,2025-10-10,O10572,Pen Pack,Stationery,Central,1,90,0.05,85.5,34.2,Cash
+S00743,2025-05-10,O10753,Headphones,Electronics,South,1,3200,0.1,2880.0,576.0,UPI
+S00744,2025-04-28,O10102,Notebook,Stationery,South,2,120,0.0,240.0,84.0,Net Banking
+S00745,2025-07-25,O10713,Office Chair,Furniture,North,2,8500,0.15,14450.0,2312.0,Credit Card
+S00746,2025-07-19,O10148,Water Bottle,Accessories,West,1,450,0.0,450.0,135.0,Net Banking
+S00747,2025-08-11,O10379,Mouse,Electronics,North,1,650,0.0,650.0,162.5,Net Banking
+S00748,2025-01-20,O10628,Phone Stand,Accessories,Central,1,350,0.1,315.0,94.5,Debit Card
+S00749,2025-12-31,O10655,Backpack,Accessories,West,1,2100,0.0,2100.0,420.0,Cash
+S00750,2025-01-06,O10292,Monitor,Electronics,South,2,14500,0.15,24650.0,4437.0,UPI
+S00751,2025-11-03,O10629,Pen Pack,Stationery,South,1,90,0.0,90.0,36.0,UPI
+S00752,2025-07-04,O10088,Monitor,Electronics,East,2,14500,0.0,29000.0,5220.0,Cash
+S00753,2025-06-30,O10205,Water Bottle,Accessories,Central,1,450,0.15,382.5,114.75,UPI
+S00754,2025-12-27,O10291,Mouse,Electronics,Central,3,650,0.15,1657.5,414.38,Net Banking
+S00755,2025-06-28,O10231,Office Chair,Furniture,Central,4,8500,0.05,32300.0,5168.0,Credit Card
+S00756,2025-08-21,O10179,Desk,Furniture,West,1,12000,0.05,11400.0,1596.0,Net Banking
+S00757,2025-02-24,O10348,Pen Pack,Stationery,North,1,90,0.05,85.5,34.2,Net Banking
+S00758,2025-05-12,O10256,Pen Pack,Stationery,West,2,90,0.15,153.0,61.2,Cash
+S00759,2025-10-16,O10794,Notebook,Stationery,West,2,120,0.05,228.0,79.8,Cash
+S00760,2025-10-28,O10069,Laptop,Electronics,West,1,52000,0.05,49400.0,5928.0,Credit Card
+S00761,2025-12-13,O10422,Phone Stand,Accessories,East,1,350,0.05,332.5,99.75,Net Banking
+S00762,2025-10-02,O10254,Laptop,Electronics,East,2,52000,0.05,98800.0,11856.0,UPI
+S00763,2025-07-24,O10077,Water Bottle,Accessories,Central,2,450,0.05,855.0,256.5,Credit Card
+S00764,2025-09-01,O10275,Office Chair,Furniture,South,1,8500,0.15,7225.0,1156.0,Credit Card
+S00765,2025-09-13,O10271,Phone Stand,Accessories,South,1,350,0.0,350.0,105.0,Credit Card
+S00766,2025-04-14,O10159,Monitor,Electronics,North,2,14500,0.05,27550.0,4959.0,UPI
+S00767,2025-02-10,O10628,Water Bottle,Accessories,North,3,450,0.1,1215.0,364.5,Net Banking
+S00768,2025-01-22,O10504,Notebook,Stationery,Central,1,120,0.05,114.0,39.9,Debit Card
+S00769,2025-09-09,O10286,Keyboard,Electronics,West,4,1800,0.15,6120.0,1346.4,Credit Card
+S00770,2025-10-23,O10489,Keyboard,Electronics,Central,1,1800,0.1,1620.0,356.4,UPI
+S00771,2025-09-15,O10468,Office Chair,Furniture,North,1,8500,0.0,8500.0,1360.0,Net Banking
+S00772,2025-08-24,O10690,Office Chair,Furniture,South,2,8500,0.0,17000.0,2720.0,Cash
+S00773,2025-10-25,O10265,Mouse,Electronics,South,1,650,0.15,552.5,138.12,Net Banking
+S00774,2025-05-15,O10351,Monitor,Electronics,East,1,14500,0.15,12325.0,2218.5,Credit Card
+S00775,2025-09-13,O10373,Desk,Furniture,West,1,12000,0.05,11400.0,1596.0,Debit Card
+S00776,2025-08-19,O10702,Keyboard,Electronics,South,1,1800,0.15,1530.0,336.6,UPI
+S00777,2025-05-19,O10200,Monitor,Electronics,South,1,14500,0.1,13050.0,2349.0,Credit Card
+S00778,2025-08-31,O10137,Laptop,Electronics,Central,1,52000,0.1,46800.0,5616.0,Net Banking
+S00779,2025-06-11,O10581,Notebook,Stationery,North,1,120,0.15,102.0,35.7,Cash
+S00780,2025-02-20,O10260,Phone Stand,Accessories,West,1,350,0.0,350.0,105.0,UPI
+S00781,2025-08-19,O10368,Phone Stand,Accessories,Central,1,350,0.05,332.5,99.75,Net Banking
+S00782,2025-05-12,O10359,Office Chair,Furniture,Central,1,8500,0.0,8500.0,1360.0,Credit Card
+S00783,2025-10-23,O10178,Backpack,Accessories,East,1,2100,0.15,1785.0,357.0,Debit Card
+S00784,2025-06-16,O10080,Water Bottle,Accessories,West,1,450,0.1,405.0,121.5,Net Banking
+S00785,2025-05-27,O10171,Notebook,Stationery,East,1,120,0.0,120.0,42.0,Cash
+S00786,2025-11-20,O10081,Backpack,Accessories,South,1,2100,0.0,2100.0,420.0,Debit Card
+S00787,2025-04-27,O10727,Office Chair,Furniture,East,1,8500,0.05,8075.0,1292.0,Net Banking
+S00788,2025-11-27,O10799,Desk,Furniture,East,1,12000,0.1,10800.0,1512.0,Net Banking
+S00789,2025-09-24,O10023,Notebook,Stationery,South,1,120,0.0,120.0,42.0,Credit Card
+S00790,2025-12-05,O10215,Headphones,Electronics,South,3,3200,0.0,9600.0,1920.0,Cash
+S00791,2025-02-22,O10561,Mouse,Electronics,North,1,650,0.1,585.0,146.25,UPI
+S00792,2025-07-23,O10106,Pen Pack,Stationery,East,2,90,0.0,180.0,72.0,Net Banking
+S00793,2025-03-21,O10316,Mouse,Electronics,South,2,650,0.1,1170.0,292.5,Credit Card
+S00794,2025-05-26,O10539,Notebook,Stationery,South,1,120,0.0,120.0,42.0,UPI
+S00795,2025-01-18,O10487,Water Bottle,Accessories,West,1,450,0.05,427.5,128.25,Net Banking
+S00796,2025-05-20,O10181,Pen Pack,Stationery,Central,1,90,0.15,76.5,30.6,Net Banking
+S00797,2025-08-22,O10445,Water Bottle,Accessories,Central,2,450,0.15,765.0,229.5,Net Banking
+S00798,2025-06-08,O10091,Office Chair,Furniture,West,1,8500,0.0,8500.0,1360.0,Debit Card
+S00799,2025-07-07,O10010,Desk,Furniture,North,1,12000,0.05,11400.0,1596.0,Net Banking
+S00800,2025-03-11,O10008,Office Chair,Furniture,West,1,8500,0.15,7225.0,1156.0,Cash
+S00801,2025-06-03,O10611,Laptop,Electronics,South,2,52000,0.05,98800.0,11856.0,UPI
+S00802,2025-10-08,O10447,Office Chair,Furniture,West,1,8500,0.15,7225.0,1156.0,Credit Card
+S00803,2025-03-25,O10387,Phone Stand,Accessories,South,2,350,0.1,630.0,189.0,Debit Card
+S00804,2025-02-10,O10782,Desk,Furniture,Central,1,12000,0.15,10200.0,1428.0,Debit Card
+S00805,2025-05-26,O10422,Water Bottle,Accessories,South,2,450,0.05,855.0,256.5,UPI
+S00806,2025-04-04,O10632,Keyboard,Electronics,West,1,1800,0.1,1620.0,356.4,Debit Card
+S00807,2025-12-25,O10019,Backpack,Accessories,South,1,2100,0.05,1995.0,399.0,UPI
+S00808,2025-10-01,O10288,Laptop,Electronics,East,1,52000,0.0,52000.0,6240.0,Credit Card
+S00809,2025-08-13,O10154,Phone Stand,Accessories,North,1,350,0.0,350.0,105.0,Cash
+S00810,2025-04-22,O10380,Office Chair,Furniture,West,1,8500,0.1,7650.0,1224.0,UPI
+S00811,2025-06-19,O10057,Mouse,Electronics,East,2,650,0.0,1300.0,325.0,Cash
+S00812,2025-02-06,O10256,Pen Pack,Stationery,West,1,90,0.0,90.0,36.0,UPI
+S00813,2025-03-04,O10253,Phone Stand,Accessories,North,1,350,0.1,315.0,94.5,Credit Card
+S00814,2025-08-24,O10681,Phone Stand,Accessories,South,2,350,0.15,595.0,178.5,Cash
+S00815,2025-07-19,O10162,Water Bottle,Accessories,North,4,450,0.05,1710.0,513.0,Net Banking
+S00816,2025-09-24,O10203,Mouse,Electronics,East,1,650,0.05,617.5,154.38,UPI
+S00817,2025-12-08,O10648,Monitor,Electronics,West,4,14500,0.0,58000.0,10440.0,Debit Card
+S00818,2025-01-08,O10122,Keyboard,Electronics,West,2,1800,0.15,3060.0,673.2,Credit Card
+S00819,2025-01-05,O10704,Laptop,Electronics,Central,1,52000,0.1,46800.0,5616.0,Credit Card
+S00820,2025-07-10,O10093,Mouse,Electronics,Central,1,650,0.1,585.0,146.25,Debit Card
+S00821,2025-11-17,O10718,Laptop,Electronics,Central,1,52000,0.0,52000.0,6240.0,UPI
+S00822,2025-03-06,O10660,Notebook,Stationery,East,1,120,0.15,102.0,35.7,Cash
+S00823,2025-04-09,O10741,Laptop,Electronics,South,2,52000,0.05,98800.0,11856.0,Debit Card
+S00824,2025-01-21,O10301,Notebook,Stationery,Central,2,120,0.15,204.0,71.4,Cash
+S00825,2025-04-08,O10331,Backpack,Accessories,West,1,2100,0.05,1995.0,399.0,Debit Card
+S00826,2025-11-03,O10158,Pen Pack,Stationery,West,1,90,0.15,76.5,30.6,Debit Card
+S00827,2025-05-15,O10794,Pen Pack,Stationery,Central,1,90,0.0,90.0,36.0,Cash
+S00828,2025-04-05,O10794,Laptop,Electronics,Central,1,52000,0.05,49400.0,5928.0,Credit Card
+S00829,2025-06-14,O10396,Phone Stand,Accessories,South,1,350,0.15,297.5,89.25,Net Banking
+S00830,2025-12-16,O10627,Notebook,Stationery,East,2,120,0.0,240.0,84.0,Debit Card
+S00831,2025-07-29,O10535,Water Bottle,Accessories,North,1,450,0.0,450.0,135.0,UPI
+S00832,2025-03-08,O10109,Keyboard,Electronics,West,3,1800,0.0,5400.0,1188.0,Credit Card
+S00833,2025-02-20,O10673,Laptop,Electronics,West,1,52000,0.1,46800.0,5616.0,Net Banking
+S00834,2025-11-16,O10375,Phone Stand,Accessories,South,1,350,0.0,350.0,105.0,Net Banking
+S00835,2025-02-06,O10671,Laptop,Electronics,West,3,52000,0.0,156000.0,18720.0,UPI
+S00836,2025-08-28,O10761,Water Bottle,Accessories,West,1,450,0.15,382.5,114.75,Debit Card
+S00837,2025-12-29,O10541,Laptop,Electronics,North,2,52000,0.05,98800.0,11856.0,UPI
+S00838,2025-06-05,O10099,Mouse,Electronics,North,3,650,0.15,1657.5,414.38,Credit Card
+S00839,2025-09-30,O10672,Desk,Furniture,South,1,12000,0.15,10200.0,1428.0,Net Banking
+S00840,2025-11-17,O10425,Keyboard,Electronics,North,1,1800,0.15,1530.0,336.6,Net Banking
+S00841,2025-07-03,O10106,Water Bottle,Accessories,South,1,450,0.1,405.0,121.5,Credit Card
+S00842,2025-10-09,O10546,Desk,Furniture,Central,1,12000,0.0,12000.0,1680.0,Cash
+S00843,2025-06-30,O10380,Office Chair,Furniture,West,1,8500,0.05,8075.0,1292.0,Cash
+S00844,2025-06-15,O10219,Backpack,Accessories,West,1,2100,0.15,1785.0,357.0,Net Banking
+S00845,2025-05-11,O10406,Office Chair,Furniture,North,4,8500,0.1,30600.0,4896.0,UPI
+S00846,2025-05-26,O10309,Backpack,Accessories,North,1,2100,0.0,2100.0,420.0,Debit Card
+S00847,2025-04-24,O10790,Monitor,Electronics,East,2,14500,0.0,29000.0,5220.0,Net Banking
+S00848,2025-09-19,O10158,Pen Pack,Stationery,North,1,90,0.15,76.5,30.6,UPI
+S00849,2025-08-24,O10375,Office Chair,Furniture,Central,1,8500,0.05,8075.0,1292.0,Credit Card
+S00850,2025-04-30,O10584,Headphones,Electronics,West,2,3200,0.0,6400.0,1280.0,Net Banking
+S00851,2025-04-22,O10494,Phone Stand,Accessories,South,1,350,0.05,332.5,99.75,Cash
+S00852,2025-12-20,O10609,Phone Stand,Accessories,East,1,350,0.0,350.0,105.0,UPI
+S00853,2025-10-23,O10789,Desk,Furniture,East,1,12000,0.0,12000.0,1680.0,Debit Card
+S00854,2025-08-11,O10788,Desk,Furniture,South,3,12000,0.0,36000.0,5040.0,Net Banking
+S00855,2025-01-06,O10055,Water Bottle,Accessories,East,2,450,0.1,810.0,243.0,Net Banking
+S00856,2025-01-22,O10334,Office Chair,Furniture,Central,1,8500,0.0,8500.0,1360.0,Credit Card
+S00857,2025-03-20,O10456,Laptop,Electronics,Central,2,52000,0.1,93600.0,11232.0,Net Banking
+S00858,2025-09-16,O10403,Mouse,Electronics,South,1,650,0.05,617.5,154.38,Credit Card
+S00859,2025-06-22,O10561,Mouse,Electronics,West,1,650,0.0,650.0,162.5,Debit Card
+S00860,2025-02-13,O10780,Desk,Furniture,South,1,12000,0.0,12000.0,1680.0,Cash
+S00861,2025-10-14,O10200,Monitor,Electronics,Central,1,14500,0.15,12325.0,2218.5,Net Banking
+S00862,2025-09-26,O10795,Monitor,Electronics,West,1,14500,0.05,13775.0,2479.5,Debit Card
+S00863,2025-12-17,O10433,Backpack,Accessories,East,1,2100,0.1,1890.0,378.0,Debit Card
+S00864,2025-04-08,O10788,Office Chair,Furniture,East,1,8500,0.0,8500.0,1360.0,Credit Card
+S00865,2025-06-29,O10638,Backpack,Accessories,South,2,2100,0.1,3780.0,756.0,Cash
+S00866,2025-01-23,O10159,Monitor,Electronics,North,1,14500,0.05,13775.0,2479.5,UPI
+S00867,2025-01-28,O10294,Monitor,Electronics,North,3,14500,0.0,43500.0,7830.0,Debit Card
+S00868,2025-12-22,O10023,Mouse,Electronics,East,1,650,0.1,585.0,146.25,Credit Card
+S00869,2025-10-03,O10768,Monitor,Electronics,East,1,14500,0.15,12325.0,2218.5,Net Banking
+S00870,2025-09-05,O10711,Backpack,Accessories,North,2,2100,0.0,4200.0,840.0,Cash
+S00871,2025-10-26,O10174,Water Bottle,Accessories,North,1,450,0.05,427.5,128.25,Debit Card
+S00872,2025-04-13,O10476,Phone Stand,Accessories,North,1,350,0.0,350.0,105.0,UPI
+S00873,2025-07-18,O10110,Water Bottle,Accessories,North,1,450,0.05,427.5,128.25,Debit Card
+S00874,2025-11-29,O10520,Desk,Furniture,North,1,12000,0.1,10800.0,1512.0,Debit Card
+S00875,2025-09-06,O10203,Backpack,Accessories,Central,1,2100,0.0,2100.0,420.0,Cash
+S00876,2025-10-15,O10542,Phone Stand,Accessories,East,1,350,0.0,350.0,105.0,Debit Card
+S00877,2025-09-08,O10355,Desk,Furniture,East,2,12000,0.0,24000.0,3360.0,Debit Card
+S00878,2025-11-17,O10282,Headphones,Electronics,North,1,3200,0.15,2720.0,544.0,Debit Card
+S00879,2025-07-18,O10230,Laptop,Electronics,South,3,52000,0.05,148200.0,17784.0,Debit Card
+S00880,2025-07-21,O10533,Water Bottle,Accessories,Central,1,450,0.1,405.0,121.5,Credit Card
+S00881,2025-08-02,O10319,Monitor,Electronics,Central,1,14500,0.1,13050.0,2349.0,Debit Card
+S00882,2025-08-18,O10594,Pen Pack,Stationery,Central,1,90,0.0,90.0,36.0,Credit Card
+S00883,2025-03-12,O10138,Headphones,Electronics,West,2,3200,0.15,5440.0,1088.0,Credit Card
+S00884,2025-12-02,O10069,Backpack,Accessories,Central,3,2100,0.05,5985.0,1197.0,Net Banking
+S00885,2025-03-02,O10744,Keyboard,Electronics,North,1,1800,0.0,1800.0,396.0,Debit Card
+S00886,2025-07-31,O10155,Desk,Furniture,South,1,12000,0.05,11400.0,1596.0,UPI
+S00887,2025-03-09,O10631,Keyboard,Electronics,East,1,1800,0.15,1530.0,336.6,Net Banking
+S00888,2025-10-18,O10236,Backpack,Accessories,North,1,2100,0.0,2100.0,420.0,Debit Card
+S00889,2025-02-10,O10514,Phone Stand,Accessories,Central,2,350,0.0,700.0,210.0,Cash
+S00890,2025-12-31,O10503,Water Bottle,Accessories,West,1,450,0.1,405.0,121.5,Credit Card
+S00891,2025-03-25,O10782,Monitor,Electronics,North,1,14500,0.1,13050.0,2349.0,Debit Card
+S00892,2025-07-31,O10775,Monitor,Electronics,South,2,14500,0.0,29000.0,5220.0,UPI
+S00893,2025-04-01,O10704,Notebook,Stationery,East,2,120,0.1,216.0,75.6,Cash
+S00894,2025-05-07,O10622,Desk,Furniture,West,1,12000,0.0,12000.0,1680.0,Debit Card
+S00895,2025-07-21,O10608,Backpack,Accessories,Central,3,2100,0.15,5355.0,1071.0,Net Banking
+S00896,2025-11-25,O10111,Phone Stand,Accessories,West,2,350,0.15,595.0,178.5,Cash
+S00897,2025-01-22,O10752,Monitor,Electronics,North,1,14500,0.1,13050.0,2349.0,Net Banking
+S00898,2025-07-18,O10194,Pen Pack,Stationery,East,2,90,0.0,180.0,72.0,Cash
+S00899,2025-07-23,O10472,Headphones,Electronics,South,2,3200,0.05,6080.0,1216.0,Cash
+S00900,2025-05-31,O10145,Backpack,Accessories,West,3,2100,0.15,5355.0,1071.0,Cash
+S00901,2025-02-16,O10797,Phone Stand,Accessories,Central,1,350,0.0,350.0,105.0,Net Banking
+S00902,2025-03-11,O10025,Desk,Furniture,South,1,12000,0.1,10800.0,1512.0,Cash
+S00903,2025-10-30,O10092,Phone Stand,Accessories,East,3,350,0.1,945.0,283.5,Debit Card
+S00904,2025-12-21,O10735,Water Bottle,Accessories,North,3,450,0.0,1350.0,405.0,UPI
+S00905,2025-02-28,O10087,Phone Stand,Accessories,Central,1,350,0.05,332.5,99.75,Cash
+S00906,2025-09-19,O10563,Backpack,Accessories,West,3,2100,0.1,5670.0,1134.0,UPI
+S00907,2025-03-29,O10166,Office Chair,Furniture,South,1,8500,0.0,8500.0,1360.0,Credit Card
+S00908,2025-12-31,O10747,Laptop,Electronics,West,1,52000,0.05,49400.0,5928.0,Debit Card
+S00909,2025-11-17,O10207,Keyboard,Electronics,North,1,1800,0.0,1800.0,396.0,Net Banking
+S00910,2025-05-10,O10556,Laptop,Electronics,North,1,52000,0.1,46800.0,5616.0,Net Banking
+S00911,2025-09-10,O10464,Monitor,Electronics,West,1,14500,0.1,13050.0,2349.0,Cash
+S00912,2025-02-10,O10560,Backpack,Accessories,East,1,2100,0.0,2100.0,420.0,Net Banking
+S00913,2025-11-18,O10050,Pen Pack,Stationery,South,2,90,0.0,180.0,72.0,Credit Card
+S00914,2025-01-29,O10033,Water Bottle,Accessories,Central,1,450,0.0,450.0,135.0,Net Banking
+S00915,2025-06-02,O10111,Office Chair,Furniture,West,3,8500,0.0,25500.0,4080.0,Credit Card
+S00916,2025-03-24,O10586,Water Bottle,Accessories,Central,1,450,0.15,382.5,114.75,Credit Card
+S00917,2025-08-22,O10095,Phone Stand,Accessories,East,1,350,0.0,350.0,105.0,Debit Card
+S00918,2025-07-08,O10563,Desk,Furniture,North,2,12000,0.1,21600.0,3024.0,Debit Card
+S00919,2025-08-30,O10337,Keyboard,Electronics,Central,1,1800,0.05,1710.0,376.2,Cash
+S00920,2025-09-26,O10059,Monitor,Electronics,North,2,14500,0.15,24650.0,4437.0,Net Banking
+S00921,2025-11-19,O10741,Pen Pack,Stationery,Central,4,90,0.1,324.0,129.6,Debit Card
+S00922,2025-08-07,O10538,Backpack,Accessories,Central,2,2100,0.05,3990.0,798.0,Net Banking
+S00923,2025-07-01,O10532,Keyboard,Electronics,West,1,1800,0.1,1620.0,356.4,Cash
+S00924,2025-04-03,O10198,Backpack,Accessories,North,1,2100,0.05,1995.0,399.0,UPI
+S00925,2025-01-13,O10755,Notebook,Stationery,South,1,120,0.0,120.0,42.0,Net Banking
+S00926,2025-08-01,O10573,Desk,Furniture,South,1,12000,0.05,11400.0,1596.0,UPI
+S00927,2025-11-24,O10069,Monitor,Electronics,East,2,14500,0.05,27550.0,4959.0,Debit Card
+S00928,2025-09-17,O10116,Pen Pack,Stationery,East,1,90,0.0,90.0,36.0,Debit Card
+S00929,2025-07-22,O10179,Phone Stand,Accessories,South,1,350,0.0,350.0,105.0,Debit Card
+S00930,2025-06-23,O10036,Water Bottle,Accessories,South,1,450,0.1,405.0,121.5,Cash
+S00931,2025-03-21,O10343,Water Bottle,Accessories,West,1,450,0.15,382.5,114.75,Cash
+S00932,2025-01-29,O10568,Pen Pack,Stationery,Central,1,90,0.05,85.5,34.2,UPI
+S00933,2025-04-17,O10067,Backpack,Accessories,South,2,2100,0.05,3990.0,798.0,Debit Card
+S00934,2025-01-16,O10169,Office Chair,Furniture,Central,4,8500,0.15,28900.0,4624.0,Net Banking
+S00935,2025-07-19,O10722,Keyboard,Electronics,East,1,1800,0.05,1710.0,376.2,UPI
+S00936,2025-05-20,O10380,Desk,Furniture,West,1,12000,0.0,12000.0,1680.0,Debit Card
+S00937,2025-04-21,O10383,Pen Pack,Stationery,North,1,90,0.0,90.0,36.0,Credit Card
+S00938,2025-02-17,O10512,Notebook,Stationery,South,1,120,0.1,108.0,37.8,Credit Card
+S00939,2025-06-24,O10317,Notebook,Stationery,East,2,120,0.15,204.0,71.4,Credit Card
+S00940,2025-02-20,O10210,Pen Pack,Stationery,North,2,90,0.0,180.0,72.0,Cash
+S00941,2025-07-18,O10004,Phone Stand,Accessories,East,2,350,0.0,700.0,210.0,UPI
+S00942,2025-12-18,O10478,Backpack,Accessories,North,3,2100,0.05,5985.0,1197.0,UPI
+S00943,2025-09-24,O10591,Water Bottle,Accessories,East,2,450,0.0,900.0,270.0,Credit Card
+S00944,2025-06-14,O10545,Monitor,Electronics,East,1,14500,0.05,13775.0,2479.5,Cash
+S00945,2025-12-10,O10280,Mouse,Electronics,North,1,650,0.0,650.0,162.5,UPI
+S00946,2025-11-15,O10555,Pen Pack,Stationery,East,1,90,0.0,90.0,36.0,Net Banking
+S00947,2025-06-13,O10587,Headphones,Electronics,South,1,3200,0.05,3040.0,608.0,Credit Card
+S00948,2025-02-06,O10553,Headphones,Electronics,West,1,3200,0.05,3040.0,608.0,UPI
+S00949,2025-03-08,O10108,Laptop,Electronics,West,1,52000,0.0,52000.0,6240.0,UPI
+S00950,2025-02-14,O10606,Desk,Furniture,West,1,12000,0.15,10200.0,1428.0,Net Banking
+S00951,2025-07-02,O10730,Headphones,Electronics,Central,1,3200,0.0,3200.0,640.0,UPI
+S00952,2025-08-27,O10099,Backpack,Accessories,West,1,2100,0.1,1890.0,378.0,Debit Card
+S00953,2025-12-17,O10481,Water Bottle,Accessories,South,2,450,0.1,810.0,243.0,Credit Card
+S00954,2025-03-15,O10401,Backpack,Accessories,South,1,2100,0.05,1995.0,399.0,Debit Card
+S00955,2025-06-16,O10486,Notebook,Stationery,North,1,120,0.0,120.0,42.0,Debit Card
+S00956,2025-09-03,O10786,Notebook,Stationery,East,2,120,0.05,228.0,79.8,Net Banking
+S00957,2025-10-22,O10731,Keyboard,Electronics,North,1,1800,0.1,1620.0,356.4,Debit Card
+S00958,2025-10-12,O10545,Water Bottle,Accessories,West,1,450,0.05,427.5,128.25,Cash
+S00959,2025-10-30,O10561,Desk,Furniture,South,1,12000,0.0,12000.0,1680.0,Cash
+S00960,2025-07-16,O10441,Mouse,Electronics,West,1,650,0.15,552.5,138.12,Net Banking
+S00961,2025-06-25,O10678,Pen Pack,Stationery,North,2,90,0.0,180.0,72.0,Net Banking
+S00962,2025-09-07,O10333,Mouse,Electronics,Central,1,650,0.1,585.0,146.25,UPI
+S00963,2025-08-16,O10071,Keyboard,Electronics,Central,1,1800,0.1,1620.0,356.4,UPI
+S00964,2025-12-17,O10335,Backpack,Accessories,West,2,2100,0.1,3780.0,756.0,UPI
+S00965,2025-02-16,O10773,Monitor,Electronics,North,2,14500,0.15,24650.0,4437.0,Credit Card
+S00966,2025-12-05,O10399,Keyboard,Electronics,Central,1,1800,0.05,1710.0,376.2,Net Banking
+S00967,2025-08-17,O10306,Monitor,Electronics,Central,1,14500,0.05,13775.0,2479.5,Debit Card
+S00968,2025-08-11,O10091,Phone Stand,Accessories,Central,4,350,0.05,1330.0,399.0,UPI
+S00969,2025-11-10,O10301,Pen Pack,Stationery,North,1,90,0.0,90.0,36.0,Debit Card
+S00970,2025-10-09,O10367,Laptop,Electronics,North,1,52000,0.15,44200.0,5304.0,Debit Card
+S00971,2025-01-16,O10403,Monitor,Electronics,East,1,14500,0.15,12325.0,2218.5,Cash
+S00972,2025-07-27,O10678,Desk,Furniture,South,1,12000,0.0,12000.0,1680.0,Cash
+S00973,2025-03-13,O10427,Monitor,Electronics,South,1,14500,0.05,13775.0,2479.5,Debit Card
+S00974,2025-12-10,O10663,Keyboard,Electronics,North,1,1800,0.0,1800.0,396.0,Credit Card
+S00975,2025-09-07,O10086,Water Bottle,Accessories,South,1,450,0.0,450.0,135.0,Cash
+S00976,2025-08-22,O10638,Phone Stand,Accessories,South,1,350,0.1,315.0,94.5,Cash
+S00977,2025-09-18,O10393,Desk,Furniture,East,1,12000,0.1,10800.0,1512.0,Credit Card
+S00978,2025-04-06,O10510,Desk,Furniture,South,1,12000,0.15,10200.0,1428.0,Net Banking
+S00979,2025-05-18,O10375,Desk,Furniture,North,3,12000,0.15,30600.0,4284.0,UPI
+S00980,2025-10-18,O10594,Notebook,Stationery,West,2,120,0.0,240.0,84.0,UPI
+S00981,2025-03-14,O10476,Phone Stand,Accessories,Central,2,350,0.05,665.0,199.5,UPI
+S00982,2025-09-25,O10645,Backpack,Accessories,North,1,2100,0.1,1890.0,378.0,Net Banking
+S00983,2025-10-24,O10547,Headphones,Electronics,North,1,3200,0.05,3040.0,608.0,Cash
+S00984,2025-08-21,O10751,Pen Pack,Stationery,East,3,90,0.15,229.5,91.8,Cash
+S00985,2025-06-30,O10711,Headphones,Electronics,Central,1,3200,0.0,3200.0,640.0,Debit Card
+S00986,2025-10-16,O10592,Headphones,Electronics,South,1,3200,0.1,2880.0,576.0,Net Banking
+S00987,2025-01-27,O10027,Water Bottle,Accessories,East,4,450,0.15,1530.0,459.0,Cash
+S00988,2025-02-12,O10258,Keyboard,Electronics,South,1,1800,0.05,1710.0,376.2,Net Banking
+S00989,2025-05-24,O10759,Headphones,Electronics,North,2,3200,0.0,6400.0,1280.0,Net Banking
+S00990,2025-03-31,O10378,Backpack,Accessories,South,2,2100,0.1,3780.0,756.0,Debit Card
+S00991,2025-12-25,O10033,Monitor,Electronics,East,1,14500,0.15,12325.0,2218.5,UPI
+S00992,2025-03-16,O10507,Backpack,Accessories,West,3,2100,0.0,6300.0,1260.0,Cash
+S00993,2025-05-02,O10215,Water Bottle,Accessories,Central,1,450,0.0,450.0,135.0,Debit Card
+S00994,2025-01-28,O10053,Water Bottle,Accessories,South,1,450,0.0,450.0,135.0,Cash
+S00995,2025-07-24,O10239,Notebook,Stationery,West,1,120,0.15,102.0,35.7,Cash
+S00996,2025-08-31,O10012,Headphones,Electronics,East,1,3200,0.1,2880.0,576.0,Cash
+S00997,2025-07-15,O10699,Water Bottle,Accessories,North,1,450,0.15,382.5,114.75,UPI
+S00998,2025-09-30,O10625,Water Bottle,Accessories,East,1,450,0.1,405.0,121.5,Debit Card
+S00999,2025-05-19,O10670,Headphones,Electronics,Central,2,3200,0.05,6080.0,1216.0,Cash
+S01000,2025-08-25,O10788,Water Bottle,Accessories,South,2,450,0.15,765.0,229.5,Net Banking
+S01001,2025-06-22,O10320,Water Bottle,Accessories,Central,2,450,0.0,900.0,270.0,UPI
+S01002,2025-12-11,O10421,Laptop,Electronics,North,2,52000,0.0,104000.0,12480.0,Net Banking
+S01003,2025-02-23,O10742,Water Bottle,Accessories,East,1,450,0.0,450.0,135.0,Debit Card
+S01004,2025-04-09,O10058,Laptop,Electronics,Central,1,52000,0.0,52000.0,6240.0,Credit Card
+S01005,2025-11-03,O10088,Water Bottle,Accessories,Central,1,450,0.0,450.0,135.0,Credit Card
+S01006,2025-07-12,O10189,Water Bottle,Accessories,North,2,450,0.15,765.0,229.5,Credit Card
+S01007,2025-05-10,O10654,Headphones,Electronics,West,1,3200,0.0,3200.0,640.0,Debit Card
+S01008,2025-08-07,O10263,Phone Stand,Accessories,South,3,350,0.05,997.5,299.25,UPI
+S01009,2025-05-22,O10061,Laptop,Electronics,East,1,52000,0.05,49400.0,5928.0,Debit Card
+S01010,2025-04-02,O10624,Notebook,Stationery,West,1,120,0.0,120.0,42.0,Credit Card
+S01011,2025-11-27,O10787,Notebook,Stationery,West,1,120,0.15,102.0,35.7,Credit Card
+S01012,2025-11-11,O10732,Water Bottle,Accessories,East,1,450,0.1,405.0,121.5,UPI
+S01013,2025-01-18,O10795,Mouse,Electronics,West,1,650,0.05,617.5,154.38,UPI
+S01014,2025-09-12,O10038,Keyboard,Electronics,West,2,1800,0.0,3600.0,792.0,Debit Card
+S01015,2025-03-19,O10588,Phone Stand,Accessories,North,1,350,0.1,315.0,94.5,Net Banking
+S01016,2025-12-29,O10745,Notebook,Stationery,North,1,120,0.1,108.0,37.8,Net Banking
+S01017,2025-04-26,O10124,Laptop,Electronics,Central,1,52000,0.1,46800.0,5616.0,Net Banking
+S01018,2025-07-03,O10056,Office Chair,Furniture,North,2,8500,0.1,15300.0,2448.0,Debit Card
+S01019,2025-10-01,O10778,Office Chair,Furniture,East,1,8500,0.1,7650.0,1224.0,Credit Card
+S01020,2025-04-01,O10676,Pen Pack,Stationery,South,1,90,0.1,81.0,32.4,Debit Card
+S01021,2025-12-23,O10498,Desk,Furniture,North,3,12000,0.05,34200.0,4788.0,Cash
+S01022,2025-04-08,O10737,Keyboard,Electronics,Central,1,1800,0.0,1800.0,396.0,Credit Card
+S01023,2025-09-08,O10658,Desk,Furniture,East,1,12000,0.15,10200.0,1428.0,Cash
+S01024,2025-10-01,O10037,Notebook,Stationery,East,4,120,0.0,480.0,168.0,UPI
+S01025,2025-06-22,O10216,Phone Stand,Accessories,Central,1,350,0.0,350.0,105.0,Cash
+S01026,2025-12-14,O10238,Pen Pack,Stationery,North,1,90,0.15,76.5,30.6,UPI
+S01027,2025-03-14,O10633,Notebook,Stationery,North,2,120,0.1,216.0,75.6,Credit Card
+S01028,2025-12-26,O10647,Water Bottle,Accessories,North,1,450,0.0,450.0,135.0,Debit Card
+S01029,2025-02-19,O10065,Notebook,Stationery,North,1,120,0.15,102.0,35.7,UPI
+S01030,2025-09-12,O10064,Backpack,Accessories,South,2,2100,0.0,4200.0,840.0,Cash
+S01031,2025-06-22,O10123,Phone Stand,Accessories,Central,2,350,0.05,665.0,199.5,Net Banking
+S01032,2025-03-12,O10782,Office Chair,Furniture,North,2,8500,0.0,17000.0,2720.0,Net Banking
+S01033,2025-03-30,O10144,Office Chair,Furniture,West,1,8500,0.05,8075.0,1292.0,Credit Card
+S01034,2025-12-23,O10249,Office Chair,Furniture,Central,1,8500,0.1,7650.0,1224.0,UPI
+S01035,2025-03-10,O10385,Mouse,Electronics,South,2,650,0.15,1105.0,276.25,UPI
+S01036,2025-09-07,O10091,Mouse,Electronics,Central,1,650,0.0,650.0,162.5,Debit Card
+S01037,2025-08-02,O10708,Phone Stand,Accessories,South,2,350,0.1,630.0,189.0,Credit Card
+S01038,2025-03-15,O10421,Water Bottle,Accessories,South,1,450,0.1,405.0,121.5,Credit Card
+S01039,2025-11-09,O10734,Phone Stand,Accessories,West,1,350,0.0,350.0,105.0,Net Banking
+S01040,2025-02-15,O10356,Water Bottle,Accessories,West,2,450,0.05,855.0,256.5,UPI
+S01041,2025-10-13,O10097,Monitor,Electronics,Central,1,14500,0.15,12325.0,2218.5,Debit Card
+S01042,2025-10-04,O10283,Pen Pack,Stationery,North,1,90,0.0,90.0,36.0,Credit Card
+S01043,2025-02-27,O10509,Keyboard,Electronics,South,2,1800,0.1,3240.0,712.8,Credit Card
+S01044,2025-12-10,O10291,Laptop,Electronics,South,1,52000,0.05,49400.0,5928.0,Cash
+S01045,2025-05-09,O10044,Office Chair,Furniture,North,1,8500,0.1,7650.0,1224.0,UPI
+S01046,2025-10-03,O10496,Keyboard,Electronics,Central,1,1800,0.0,1800.0,396.0,UPI
+S01047,2025-02-06,O10593,Monitor,Electronics,East,2,14500,0.15,24650.0,4437.0,Cash
+S01048,2025-04-12,O10235,Phone Stand,Accessories,North,2,350,0.05,665.0,199.5,Debit Card
+S01049,2025-04-27,O10204,Mouse,Electronics,West,1,650,0.1,585.0,146.25,Credit Card
+S01050,2025-02-07,O10446,Notebook,Stationery,South,1,120,0.0,120.0,42.0,Credit Card
+S01051,2025-11-09,O10139,Notebook,Stationery,West,1,120,0.05,114.0,39.9,Credit Card
+S01052,2025-11-20,O10343,Office Chair,Furniture,South,4,8500,0.0,34000.0,5440.0,UPI
+S01053,2025-12-21,O10113,Backpack,Accessories,West,1,2100,0.0,2100.0,420.0,Cash
+S01054,2025-08-03,O10302,Keyboard,Electronics,Central,2,1800,0.0,3600.0,792.0,Credit Card
+S01055,2025-11-23,O10566,Backpack,Accessories,South,3,2100,0.15,5355.0,1071.0,UPI
+S01056,2025-07-30,O10605,Pen Pack,Stationery,West,1,90,0.0,90.0,36.0,Cash
+S01057,2025-05-23,O10253,Laptop,Electronics,East,2,52000,0.0,104000.0,12480.0,Cash
+S01058,2025-10-24,O10152,Monitor,Electronics,Central,3,14500,0.15,36975.0,6655.5,UPI
+S01059,2025-08-02,O10751,Laptop,Electronics,Central,1,52000,0.1,46800.0,5616.0,UPI
+S01060,2025-08-06,O10463,Pen Pack,Stationery,West,1,90,0.0,90.0,36.0,Credit Card
+S01061,2025-02-12,O10223,Pen Pack,Stationery,South,2,90,0.1,162.0,64.8,Debit Card
+S01062,2025-06-01,O10016,Monitor,Electronics,West,1,14500,0.0,14500.0,2610.0,Debit Card
+S01063,2025-03-24,O10765,Phone Stand,Accessories,Central,1,350,0.15,297.5,89.25,UPI
+S01064,2025-08-21,O10189,Notebook,Stationery,East,2,120,0.1,216.0,75.6,Cash
+S01065,2025-12-27,O10394,Water Bottle,Accessories,East,1,450,0.0,450.0,135.0,Net Banking
+S01066,2025-01-17,O10714,Headphones,Electronics,Central,1,3200,0.05,3040.0,608.0,Net Banking
+S01067,2025-10-22,O10635,Monitor,Electronics,East,2,14500,0.0,29000.0,5220.0,UPI
+S01068,2025-09-21,O10113,Water Bottle,Accessories,West,1,450,0.0,450.0,135.0,Debit Card
+S01069,2025-08-27,O10179,Backpack,Accessories,Central,1,2100,0.05,1995.0,399.0,UPI
+S01070,2025-10-15,O10342,Phone Stand,Accessories,South,2,350,0.0,700.0,210.0,Net Banking
+S01071,2025-02-28,O10719,Water Bottle,Accessories,South,1,450,0.15,382.5,114.75,Credit Card
+S01072,2025-06-14,O10696,Office Chair,Furniture,West,3,8500,0.15,21675.0,3468.0,Debit Card
+S01073,2025-01-28,O10497,Mouse,Electronics,Central,1,650,0.1,585.0,146.25,Net Banking
+S01074,2025-03-04,O10299,Notebook,Stationery,West,2,120,0.15,204.0,71.4,Net Banking
+S01075,2025-07-08,O10192,Water Bottle,Accessories,West,3,450,0.0,1350.0,405.0,UPI
+S01076,2025-02-11,O10078,Desk,Furniture,North,3,12000,0.05,34200.0,4788.0,Credit Card
+S01077,2025-05-22,O10154,Mouse,Electronics,South,2,650,0.1,1170.0,292.5,Net Banking
+S01078,2025-11-18,O10135,Laptop,Electronics,West,1,52000,0.15,44200.0,5304.0,Debit Card
+S01079,2025-08-04,O10298,Notebook,Stationery,South,2,120,0.0,240.0,84.0,UPI
+S01080,2025-01-12,O10660,Monitor,Electronics,East,2,14500,0.15,24650.0,4437.0,Cash
+S01081,2025-10-24,O10497,Office Chair,Furniture,Central,2,8500,0.05,16150.0,2584.0,Net Banking
+S01082,2025-10-08,O10135,Notebook,Stationery,East,1,120,0.15,102.0,35.7,Credit Card
+S01083,2025-05-14,O10788,Monitor,Electronics,North,1,14500,0.05,13775.0,2479.5,Credit Card
+S01084,2025-06-30,O10633,Headphones,Electronics,South,1,3200,0.0,3200.0,640.0,Net Banking
+S01085,2025-05-27,O10165,Keyboard,Electronics,South,4,1800,0.0,7200.0,1584.0,UPI
+S01086,2025-01-22,O10266,Office Chair,Furniture,East,1,8500,0.1,7650.0,1224.0,Credit Card
+S01087,2025-04-16,O10352,Pen Pack,Stationery,South,2,90,0.05,171.0,68.4,Debit Card
+S01088,2025-08-18,O10308,Pen Pack,Stationery,North,4,90,0.15,306.0,122.4,UPI
+S01089,2025-07-27,O10327,Notebook,Stationery,South,2,120,0.1,216.0,75.6,UPI
+S01090,2025-10-07,O10485,Pen Pack,Stationery,East,1,90,0.05,85.5,34.2,Net Banking
+S01091,2025-12-08,O10346,Keyboard,Electronics,North,2,1800,0.1,3240.0,712.8,Cash
+S01092,2025-01-21,O10315,Keyboard,Electronics,North,2,1800,0.0,3600.0,792.0,Cash
+S01093,2025-11-13,O10334,Monitor,Electronics,North,1,14500,0.0,14500.0,2610.0,Net Banking
+S01094,2025-11-25,O10800,Monitor,Electronics,East,1,14500,0.0,14500.0,2610.0,Credit Card
+S01095,2025-01-12,O10693,Mouse,Electronics,North,1,650,0.1,585.0,146.25,Net Banking
+S01096,2025-07-21,O10619,Monitor,Electronics,Central,1,14500,0.15,12325.0,2218.5,UPI
+S01097,2025-12-08,O10378,Office Chair,Furniture,West,1,8500,0.1,7650.0,1224.0,Debit Card
+S01098,2025-01-07,O10456,Headphones,Electronics,Central,1,3200,0.05,3040.0,608.0,UPI
+S01099,2025-04-21,O10453,Phone Stand,Accessories,East,3,350,0.1,945.0,283.5,Credit Card
+S01100,2025-08-06,O10601,Phone Stand,Accessories,Central,3,350,0.0,1050.0,315.0,UPI
+S01101,2025-03-15,O10343,Monitor,Electronics,North,1,14500,0.15,12325.0,2218.5,Net Banking
+S01102,2025-07-12,O10424,Mouse,Electronics,South,1,650,0.05,617.5,154.38,Net Banking
+S01103,2025-08-25,O10204,Phone Stand,Accessories,South,1,350,0.0,350.0,105.0,Cash
+S01104,2025-05-29,O10599,Pen Pack,Stationery,East,1,90,0.05,85.5,34.2,Cash
+S01105,2025-10-14,O10002,Phone Stand,Accessories,South,1,350,0.0,350.0,105.0,Debit Card
+S01106,2025-06-03,O10127,Water Bottle,Accessories,East,2,450,0.1,810.0,243.0,Cash
+S01107,2025-04-02,O10029,Notebook,Stationery,North,3,120,0.0,360.0,126.0,Debit Card
+S01108,2025-09-10,O10595,Mouse,Electronics,West,1,650,0.05,617.5,154.38,Net Banking
+S01109,2025-08-12,O10710,Headphones,Electronics,North,1,3200,0.1,2880.0,576.0,Debit Card
+S01110,2025-09-20,O10166,Phone Stand,Accessories,Central,1,350,0.05,332.5,99.75,UPI
+S01111,2025-03-16,O10365,Office Chair,Furniture,South,1,8500,0.0,8500.0,1360.0,UPI
+S01112,2025-05-20,O10049,Office Chair,Furniture,East,1,8500,0.05,8075.0,1292.0,Debit Card
+S01113,2025-09-29,O10198,Water Bottle,Accessories,South,3,450,0.15,1147.5,344.25,UPI
+S01114,2025-11-03,O10701,Keyboard,Electronics,East,1,1800,0.05,1710.0,376.2,Debit Card
+S01115,2025-12-17,O10547,Phone Stand,Accessories,Central,2,350,0.0,700.0,210.0,Debit Card
+S01116,2025-03-15,O10381,Laptop,Electronics,West,1,52000,0.05,49400.0,5928.0,Cash
+S01117,2025-06-24,O10515,Keyboard,Electronics,South,1,1800,0.0,1800.0,396.0,Credit Card
+S01118,2025-10-14,O10544,Backpack,Accessories,Central,2,2100,0.15,3570.0,714.0,UPI
+S01119,2025-08-02,O10134,Notebook,Stationery,North,3,120,0.0,360.0,126.0,Cash
+S01120,2025-06-28,O10452,Headphones,Electronics,Central,2,3200,0.0,6400.0,1280.0,Net Banking
+S01121,2025-06-25,O10762,Keyboard,Electronics,North,2,1800,0.0,3600.0,792.0,Credit Card
+S01122,2025-03-07,O10314,Phone Stand,Accessories,South,1,350,0.0,350.0,105.0,Credit Card
+S01123,2025-03-08,O10079,Mouse,Electronics,North,1,650,0.0,650.0,162.5,Cash
+S01124,2025-08-09,O10675,Laptop,Electronics,Central,1,52000,0.0,52000.0,6240.0,Net Banking
+S01125,2025-01-31,O10044,Notebook,Stationery,North,1,120,0.05,114.0,39.9,Debit Card
+S01126,2025-12-08,O10616,Laptop,Electronics,South,2,52000,0.0,104000.0,12480.0,Net Banking
+S01127,2025-04-13,O10092,Keyboard,Electronics,South,2,1800,0.0,3600.0,792.0,Debit Card
+S01128,2025-10-24,O10799,Office Chair,Furniture,Central,1,8500,0.15,7225.0,1156.0,Credit Card
+S01129,2025-09-16,O10781,Backpack,Accessories,North,1,2100,0.15,1785.0,357.0,Net Banking
+S01130,2025-04-22,O10175,Phone Stand,Accessories,Central,1,350,0.05,332.5,99.75,UPI
+S01131,2025-02-20,O10375,Monitor,Electronics,Central,3,14500,0.1,39150.0,7047.0,Credit Card
+S01132,2025-08-14,O10363,Water Bottle,Accessories,West,3,450,0.0,1350.0,405.0,Cash
+S01133,2025-04-20,O10779,Pen Pack,Stationery,East,1,90,0.0,90.0,36.0,UPI
+S01134,2025-08-27,O10780,Mouse,Electronics,East,1,650,0.1,585.0,146.25,Debit Card
+S01135,2025-10-13,O10505,Phone Stand,Accessories,North,1,350,0.05,332.5,99.75,Cash
+S01136,2025-05-26,O10703,Notebook,Stationery,West,1,120,0.05,114.0,39.9,Credit Card
+S01137,2025-10-11,O10193,Desk,Furniture,North,1,12000,0.1,10800.0,1512.0,Cash
+S01138,2025-12-14,O10688,Office Chair,Furniture,North,1,8500,0.1,7650.0,1224.0,Cash
+S01139,2025-08-13,O10122,Pen Pack,Stationery,South,2,90,0.0,180.0,72.0,Cash
+S01140,2025-07-25,O10759,Phone Stand,Accessories,South,1,350,0.0,350.0,105.0,UPI
+S01141,2025-07-06,O10413,Monitor,Electronics,North,1,14500,0.15,12325.0,2218.5,Credit Card
+S01142,2025-08-06,O10607,Phone Stand,Accessories,East,1,350,0.15,297.5,89.25,Cash
+S01143,2025-07-02,O10496,Notebook,Stationery,Central,2,120,0.1,216.0,75.6,Debit Card
+S01144,2025-03-17,O10501,Notebook,Stationery,West,1,120,0.05,114.0,39.9,Credit Card
+S01145,2025-11-18,O10069,Keyboard,Electronics,West,1,1800,0.0,1800.0,396.0,UPI
+S01146,2025-04-02,O10156,Desk,Furniture,East,1,12000,0.05,11400.0,1596.0,Net Banking
+S01147,2025-11-16,O10785,Mouse,Electronics,West,2,650,0.15,1105.0,276.25,Cash
+S01148,2025-04-14,O10516,Headphones,Electronics,East,2,3200,0.1,5760.0,1152.0,Net Banking
+S01149,2025-06-25,O10440,Pen Pack,Stationery,North,1,90,0.0,90.0,36.0,Cash
+S01150,2025-08-19,O10470,Office Chair,Furniture,North,2,8500,0.1,15300.0,2448.0,UPI
+S01151,2025-04-01,O10723,Pen Pack,Stationery,South,2,90,0.05,171.0,68.4,Cash
+S01152,2025-08-09,O10499,Keyboard,Electronics,North,1,1800,0.1,1620.0,356.4,Net Banking
+S01153,2025-12-12,O10585,Notebook,Stationery,West,2,120,0.15,204.0,71.4,Cash
+S01154,2025-10-15,O10269,Keyboard,Electronics,West,1,1800,0.1,1620.0,356.4,Net Banking
+S01155,2025-07-13,O10328,Backpack,Accessories,North,2,2100,0.05,3990.0,798.0,UPI
+S01156,2025-10-30,O10357,Laptop,Electronics,Central,1,52000,0.05,49400.0,5928.0,UPI
+S01157,2025-11-17,O10353,Office Chair,Furniture,East,1,8500,0.1,7650.0,1224.0,Cash
+S01158,2025-06-29,O10240,Laptop,Electronics,East,2,52000,0.0,104000.0,12480.0,Net Banking
+S01159,2025-02-13,O10117,Phone Stand,Accessories,East,1,350,0.05,332.5,99.75,Credit Card
+S01160,2025-01-11,O10673,Pen Pack,Stationery,West,1,90,0.1,81.0,32.4,Net Banking
+S01161,2025-09-21,O10602,Desk,Furniture,North,1,12000,0.1,10800.0,1512.0,Debit Card
+S01162,2025-07-13,O10100,Backpack,Accessories,West,1,2100,0.15,1785.0,357.0,UPI
+S01163,2025-12-20,O10514,Water Bottle,Accessories,East,1,450,0.1,405.0,121.5,Credit Card
+S01164,2025-11-11,O10206,Headphones,Electronics,West,1,3200,0.1,2880.0,576.0,UPI
+S01165,2025-10-02,O10304,Monitor,Electronics,Central,1,14500,0.0,14500.0,2610.0,Cash
+S01166,2025-04-26,O10734,Backpack,Accessories,Central,2,2100,0.0,4200.0,840.0,UPI
+S01167,2025-10-31,O10543,Office Chair,Furniture,West,1,8500,0.15,7225.0,1156.0,Cash
+S01168,2025-04-18,O10516,Office Chair,Furniture,East,2,8500,0.05,16150.0,2584.0,Cash
+S01169,2025-12-06,O10411,Pen Pack,Stationery,East,1,90,0.1,81.0,32.4,Net Banking
+S01170,2025-09-21,O10184,Notebook,Stationery,North,2,120,0.15,204.0,71.4,Net Banking
+S01171,2025-04-06,O10274,Backpack,Accessories,Central,1,2100,0.1,1890.0,378.0,Net Banking
+S01172,2025-08-11,O10534,Backpack,Accessories,South,2,2100,0.0,4200.0,840.0,Debit Card
+S01173,2025-08-25,O10445,Keyboard,Electronics,West,1,1800,0.05,1710.0,376.2,Debit Card
+S01174,2025-02-02,O10273,Water Bottle,Accessories,East,1,450,0.1,405.0,121.5,Credit Card
+S01175,2025-05-12,O10244,Water Bottle,Accessories,North,1,450,0.1,405.0,121.5,Credit Card
+S01176,2025-04-09,O10475,Laptop,Electronics,West,1,52000,0.05,49400.0,5928.0,Net Banking
+S01177,2025-08-12,O10206,Desk,Furniture,South,1,12000,0.0,12000.0,1680.0,Debit Card
+S01178,2025-03-11,O10674,Laptop,Electronics,Central,1,52000,0.05,49400.0,5928.0,Credit Card
+S01179,2025-11-26,O10020,Laptop,Electronics,North,4,52000,0.1,187200.0,22464.0,UPI
+S01180,2025-06-10,O10416,Backpack,Accessories,East,1,2100,0.0,2100.0,420.0,UPI
+S01181,2025-07-23,O10114,Phone Stand,Accessories,Central,2,350,0.0,700.0,210.0,Net Banking
+S01182,2025-03-03,O10793,Pen Pack,Stationery,Central,2,90,0.15,153.0,61.2,Debit Card
+S01183,2025-09-12,O10791,Mouse,Electronics,East,1,650,0.0,650.0,162.5,Debit Card
+S01184,2025-10-27,O10433,Phone Stand,Accessories,South,1,350,0.0,350.0,105.0,Credit Card
+S01185,2025-02-24,O10450,Keyboard,Electronics,West,1,1800,0.05,1710.0,376.2,Debit Card
+S01186,2025-10-29,O10716,Laptop,Electronics,North,1,52000,0.05,49400.0,5928.0,Debit Card
+S01187,2025-10-07,O10284,Desk,Furniture,South,1,12000,0.0,12000.0,1680.0,Debit Card
+S01188,2025-09-01,O10021,Phone Stand,Accessories,Central,1,350,0.05,332.5,99.75,UPI
+S01189,2025-12-06,O10259,Laptop,Electronics,Central,2,52000,0.0,104000.0,12480.0,Cash
+S01190,2025-06-08,O10701,Water Bottle,Accessories,North,3,450,0.05,1282.5,384.75,Net Banking
+S01191,2025-05-02,O10261,Notebook,Stationery,East,1,120,0.1,108.0,37.8,UPI
+S01192,2025-05-01,O10449,Headphones,Electronics,East,1,3200,0.0,3200.0,640.0,Cash
+S01193,2025-01-18,O10482,Headphones,Electronics,West,2,3200,0.1,5760.0,1152.0,Debit Card
+S01194,2025-08-05,O10518,Mouse,Electronics,North,2,650,0.05,1235.0,308.75,Debit Card
+S01195,2025-08-04,O10755,Backpack,Accessories,East,2,2100,0.15,3570.0,714.0,Cash
+S01196,2025-12-22,O10645,Laptop,Electronics,West,2,52000,0.0,104000.0,12480.0,Credit Card
+S01197,2025-01-02,O10321,Desk,Furniture,Central,1,12000,0.05,11400.0,1596.0,UPI
+S01198,2025-02-26,O10608,Keyboard,Electronics,West,1,1800,0.0,1800.0,396.0,Debit Card
+S01199,2025-08-20,O10266,Notebook,Stationery,South,3,120,0.0,360.0,126.0,Net Banking
+S01200,2025-06-17,O10376,Headphones,Electronics,South,1,3200,0.1,2880.0,576.0,Cash
