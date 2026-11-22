@@ -1,5 +1,5 @@
 # Retail Sales Analysis
-
+![Retail Sales Dashboard](Retail_Sales_Dashboard.png)
 ## Project Overview
 This project analyzes retail sales data to evaluate business performance, identify profitable product categories, compare regional performance, and explore monthly sales trends.
 
